@@ -51,10 +51,9 @@ def editMethod(SpoonFile, CKFile, outPutFolder, fileName):
         join.to_csv(
             os.path.join(outPutFolder,"allMethod.csv"),mode="a",header=False,index=False
         )
+        
 projectFolder=sys.argv[1]
 outPutFolder=sys.argv[2]
-#projectFolder = "C:/Users/sugii syuji/jsoup"            #input予定
-#outPutFolder = "C:/Users/sugii syuji/SpoonCK_data"      #input予定
 if not os.path.isdir(outPutFolder):
     os.makedirs(outPutFolder)
 
@@ -77,7 +76,6 @@ with open(os.path.join(LogDir,"logHash.txt"),"r",encoding="utf-8") as f:
     hashList=[s.rstrip() for s in f.readlines()]
 i=0
 for hashSet in hashList:
-    i=i+1
     hashSplit=hashSet.split(",")
     DiffText=os.path.join(LogDir,hashSplit[0]+".txt")
     FullText=os.path.join(LogFullDir,hashSplit[0]+".txt")
@@ -88,6 +86,6 @@ for hashSet in hashList:
     ExcuteSpoon.ExcuteSpoon(FullText,DiffText,tmpResult+"/")
     editClass(tmpSpoonClassResult,tmpCKClassResult,outPutFolder,i)
     editMethod(tmpSpoonMethodResult,tmpCKMethodResult,outPutFolder,i)
-    if i==5:
-        break
+    i=i+1
+
     #プロジェクトのissuueとlogがしっかり書かれているかしっかりと見る

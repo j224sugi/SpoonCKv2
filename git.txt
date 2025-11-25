@@ -8,3 +8,4 @@ git rev-list --count HEAD ⇒　現在ブランチのコミット数を得る
 git diff --name-status [hash値] -- "*.java"　⇒　変更のあったjavaファイルを得る
 git show [hash値]:ファイル　> ファイル名　⇒　ファイルをファイル名として保存する
 grep [String]　*.txt　⇒　Stringを含む.txtを抽出する
+gh issue list -l bug -s closed ⇒　gitプロジェクトに含まれるissueの内closeされており、かつ、labelがbugの物を出力する

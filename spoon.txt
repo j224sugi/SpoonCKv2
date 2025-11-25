@@ -16,3 +16,8 @@ jarファイルなし+setNoClasspath(false)⇒エラーで実行できない
 fastjson
 jarファイルなし　JavaParser:エラー数⇒361   Spoon:エラー数⇒81
 jarファイルあり　JavaParser:エラー数⇒201   Spoon:エラー数⇒2　(jarファイルの競合？を無くせば０になる)
+
+
+pythonのフォルダーで.venv\Scripts\activateを実行する
+pip install -r requirement.txtで仮想環境にpandasをインストール
+仮想環境の状態でpython SpoonCk.py [gitプロジェクト]　[出力フォルダー]　実行する

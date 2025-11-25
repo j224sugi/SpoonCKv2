@@ -1,5 +1,5 @@
 02bb8a90cad36fe00cf5887a2924df658b084ff5
-C:/Users/sugii syuji/jsoup\src/main/java/org/jsoup/Jsoup.java
-C:/Users/sugii syuji/jsoup\src/main/java/org/jsoup/safety/Cleaner.java
-C:/Users/sugii syuji/jsoup\src/main/java/org/jsoup/safety/Safelist.java
-C:/Users/sugii syuji/jsoup\src/main/java/org/jsoup/safety/Whitelist.java
+C:\Users\syuuj\jsoup\src/main/java/org/jsoup/Jsoup.java
+C:\Users\syuuj\jsoup\src/main/java/org/jsoup/safety/Cleaner.java
+C:\Users\syuuj\jsoup\src/main/java/org/jsoup/safety/Safelist.java
+C:\Users\syuuj\jsoup\src/main/java/org/jsoup/safety/Whitelist.java
