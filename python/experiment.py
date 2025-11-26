@@ -1,2 +1,2 @@
-import sys
-print(sys.argv[1])
+import os
+os.makedirs("C:/Users/syuuj/gitProjectResult/checkstyleResult")

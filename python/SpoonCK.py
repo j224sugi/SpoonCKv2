@@ -11,7 +11,7 @@ MethodFlag=True
 def editClass(Spoonfile, CKfile, outPutFolder, fileName):   #fileName=何個目のlogか
     global ClassFlag
     df = pd.read_csv(CKfile)
-    CK = df[["file", "class", "wmc", "tcc", "loc"]]
+    CK = df[["file", "class","type", "wmc", "tcc", "loc","totalMethodsQty"]]
     CK["class"] = CK["class"].str.replace("$Anonymous", "$")
     spoon = pd.read_csv(Spoonfile)
     join = spoon.merge(CK, how="inner", on=["file", "class"])
@@ -38,6 +38,7 @@ def editMethod(SpoonFile, CKFile, outPutFolder, fileName):
     CK = df[["file", "class", "method", "wmc", "loc"]]
     spoon = pd.read_csv(SpoonFile)
     join = spoon.merge(CK, how="inner", on=["file", "class", "method"])
+    join["num"]=fileName
     join.to_csv(
         os.path.join(outPutFolder , str(fileName) + "method.csv")
     ) 
@@ -52,40 +53,50 @@ def editMethod(SpoonFile, CKFile, outPutFolder, fileName):
             os.path.join(outPutFolder,"allMethod.csv"),mode="a",header=False,index=False
         )
         
-projectFolder=sys.argv[1]
-outPutFolder=sys.argv[2]
-if not os.path.isdir(outPutFolder):
-    os.makedirs(outPutFolder)
+#projectFolder=sys.argv[1]
+#outPutFolder=sys.argv[2]
 
-absolutePath = os.getcwd()
-tmpResult=os.path.join(absolutePath,"tmpResult")
-tmpCKClassResult=os.path.join(tmpResult,"class.csv")
-tmpCKMethodResult=os.path.join(tmpResult,"method.csv")
-tmpSpoonClassResult=os.path.join(tmpResult,"spoonClass.csv")
-tmpSpoonMethodResult=os.path.join(tmpResult,"spoonMethod.csv")       #各ツールの結果を一時保存する場所，結合する必要あり
-os.makedirs(tmpResult,exist_ok=True)            #一時保存するフォルダを作成
+Folders=[["C:\\Users\\syuuj\\gitProject\\checkstyle","C:\\Users\\syuuj\\gitProjectMetrics\\checkstyleResult"],["C:\\Users\\syuuj\\gitProject\\fastjson","C:\\Users\\syuuj\\gitProjectMetrics\\fastjsonResult"],["C:\\Users\\syuuj\\gitProject\\jedis","C:\\Users\\syuuj\\gitProjectMetrics\\jedisResult"]]
 
-LogDir=os.path.join(absolutePath,"logData")                  #ログのjava差分ファイル
-LogFullDir=os.path.join(absolutePath,"logFull")              #あるコミット時点の全てのjavaファイル
-if os.path.isdir(LogFullDir):
-    shutil.rmtree(LogFullDir)
-os.makedirs(LogFullDir)
+for AnalyzeSet in Folders:
+    ClassFlag=True
+    MethodFlag=True
+    projectFolder=AnalyzeSet[0]
+    outPutFolder=AnalyzeSet[1]
+    if not os.path.isdir(outPutFolder):
+        os.makedirs(outPutFolder)
 
-getLog.getLog(projectFolder,LogDir)
-with open(os.path.join(LogDir,"logHash.txt"),"r",encoding="utf-8") as f:
-    hashList=[s.rstrip() for s in f.readlines()]
-i=0
-for hashSet in hashList:
-    hashSplit=hashSet.split(",")
-    DiffText=os.path.join(LogDir,hashSplit[0]+".txt")
-    FullText=os.path.join(LogFullDir,hashSplit[0]+".txt")
-    gitCheckout=["git","checkout",hashSplit[1]]
-    subprocess.run(gitCheckout,cwd=projectFolder,check=True)
-    getAllFile.searchFile(projectFolder,FullText)
-    ExcuteCK.ExcuteCK(DiffText,tmpResult+"/")
-    ExcuteSpoon.ExcuteSpoon(FullText,DiffText,tmpResult+"/")
-    editClass(tmpSpoonClassResult,tmpCKClassResult,outPutFolder,i)
-    editMethod(tmpSpoonMethodResult,tmpCKMethodResult,outPutFolder,i)
-    i=i+1
+    absolutePath = os.getcwd()
+    tmpResult=os.path.join(absolutePath,"tmpResult")
+    tmpCKClassResult=os.path.join(tmpResult,"class.csv")
+    tmpCKMethodResult=os.path.join(tmpResult,"method.csv")
+    tmpSpoonClassResult=os.path.join(tmpResult,"spoonClass.csv")
+    tmpSpoonMethodResult=os.path.join(tmpResult,"spoonMethod.csv")       #各ツールの結果を一時保存する場所，結合する必要あり
+    os.makedirs(tmpResult,exist_ok=True)            #一時保存するフォルダを作成
 
-    #プロジェクトのissuueとlogがしっかり書かれているかしっかりと見る
+    LogDir=os.path.join(absolutePath,"logData")                  #ログのjava差分ファイル
+    LogFullDir=os.path.join(absolutePath,"logFull")              #あるコミット時点の全てのjavaファイル
+    if os.path.isdir(LogFullDir):
+        shutil.rmtree(LogFullDir)
+    os.makedirs(LogFullDir)
+
+    getLog.getLog(projectFolder,LogDir)
+    with open(os.path.join(LogDir,"logHash.txt"),"r",encoding="utf-8") as f:
+        hashList=[s.rstrip() for s in f.readlines()]
+    i=0
+    for hashSet in hashList:
+        hashSplit=hashSet.split(",")
+        DiffText=os.path.join(LogDir,hashSplit[0]+".txt")
+        FullText=os.path.join(LogFullDir,hashSplit[0]+".txt")
+        gitCheckout=["git","checkout",hashSplit[1]]
+        subprocess.run(gitCheckout,cwd=projectFolder,check=True)
+        getAllFile.searchFile(projectFolder,FullText)
+        ExcuteCK.ExcuteCK(DiffText,tmpResult+"/")
+        ExcuteSpoon.ExcuteSpoon(FullText,DiffText,tmpResult+"/")
+        editClass(tmpSpoonClassResult,tmpCKClassResult,outPutFolder,i)
+        editMethod(tmpSpoonMethodResult,tmpCKMethodResult,outPutFolder,i)
+        i=i+1
+        if i>5:
+            break
+
+        #プロジェクトのissuueとlogがしっかり書かれているかしっかりと見る

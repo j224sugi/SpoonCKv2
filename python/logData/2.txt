@@ -1,4 +1,0 @@
-836350e06d46766ad8d2c7e05b14e28519b2d04a
-C:\Users\syuuj\jsoup\src/main/java/org/jsoup/helper/UrlConnectionExecutor.java
-C:\Users\syuuj\jsoup\src/main/java/org/jsoup/internal/Functions.java
-C:\Users\syuuj\jsoup\src/main/java/org/jsoup/safety/Safelist.java

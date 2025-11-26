@@ -1,5 +1,0 @@
-C:\Users\syuuj\jsoup\src\main\java\org\jsoup\parser\ParserRuntimeException.java
-C:\Users\syuuj\jsoup\src\main\java\org\jsoup\parser\Position.java
-C:\Users\syuuj\jsoup\src\main\java\org\jsoup\parser\Tag.java
-C:\Users\syuuj\jsoup\src\main\java\org\jsoup\parser\Token.java
-C:\Users\syuuj\jsoup\src\main\java\org\jsoup\parser\TokenStream.java
