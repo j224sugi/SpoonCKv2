@@ -1,5 +1,0 @@
-1ed231cf159d375cb60bea21420f359e3ff41f5e
-C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/BinaryJedis.java
-C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/BinaryShardedJedis.java
-C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/PipelineBlock.java
-C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/TransactionBlock.java

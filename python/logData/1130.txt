@@ -1,5 +1,0 @@
-c8ddd237c3d86920e4fb16ceef0fa0204ef7197c
-C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/BinaryTransaction.java
-C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/Pipeline.java
-C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/PipelineBase.java
-C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/Transaction.java

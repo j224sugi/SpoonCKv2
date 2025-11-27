@@ -1,3 +1,0 @@
-5e186c23311f00a3739188a251e06ac4d33760ff
-C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/MultiNodePipelineBase.java
-C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/TransactionBase.java

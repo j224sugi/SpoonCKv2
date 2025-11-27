@@ -1,4 +1,0 @@
-7e7887d78b2e90532ebe8302c575047e534f2407
-C:\Users\syuuj\gitProject\jedis\1b8aa4b55a8f6602ec550267bf8af7a6c8fc203d
-C:\Users\syuuj\gitProject\jedis\1780b6c550e5148c794d08e43c02fac161595964
-C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/Client.java

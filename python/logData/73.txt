@@ -1,2 +1,0 @@
-b2bee0e53db809a32dd579597ee7f45b9b253fb1
-C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/search/querybuilder/Values.java

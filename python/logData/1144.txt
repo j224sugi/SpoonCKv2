@@ -1,3 +1,0 @@
-6bede66493b49f27d21284f9f823b086e3683f10
-C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/BinaryShardedJedis.java
-C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/ShardedJedis.java

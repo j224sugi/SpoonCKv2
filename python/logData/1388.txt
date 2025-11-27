@@ -1,5 +1,0 @@
-56795974959e479d3174059c25082de39006604d
-C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/Connection.java
-C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/Jedis.java
-C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/JedisPipeline.java
-C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/Protocol.java

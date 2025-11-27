@@ -1,4 +1,0 @@
-bc1d02a70c8ad665ec4116ad8a1f8c1ccb29a64a
-C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/BuilderFactory.java
-C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/CommandObjects.java
-C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/JsonBuilderFactory.java

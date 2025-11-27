@@ -1,4 +1,0 @@
-7255a8cae173dc19f8250cca85bfec7e92306c02
-C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/JedisClusterConnectionHandler.java
-C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/util/ClusterNodeInformation.java
-C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/util/ClusterNodeInformationParser.java

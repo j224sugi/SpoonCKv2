@@ -1,6 +1,0 @@
-ed57047a07806eb11bbc4eb330ff09b9f73352a9
-C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/JedisCluster.java
-C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/JedisPooled.java
-C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/JedisSharding.java
-C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/Pipeline.java
-C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/UnifiedJedis.java

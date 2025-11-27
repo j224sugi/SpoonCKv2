@@ -1,9 +1,0 @@
-8d5f45c01ffe75ac25fd9a265ff7ae05fc375848
-C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/commands/BitBinaryCommands.java
-C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/commands/BitCommands.java
-C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/commands/BitPipelineBinaryCommands.java
-C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/commands/BitPipelineCommands.java
-C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/commands/StringBinaryCommands.java
-C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/commands/StringCommands.java
-C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/commands/StringPipelineBinaryCommands.java
-C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/commands/StringPipelineCommands.java

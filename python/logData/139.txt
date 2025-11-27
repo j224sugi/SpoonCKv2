@@ -1,2 +1,0 @@
-c920bb371ebc471268bd11a45fc791a7e04e4228
-C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/exceptions/AbortedTransactionException.java

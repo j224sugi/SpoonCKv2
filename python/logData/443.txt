@@ -1,7 +1,0 @@
-270bb713d206a401384b1021289f6b02c8b1e2a2
-C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/BinaryJedis.java
-C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/BinaryJedisCluster.java
-C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/Connection.java
-C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/DefaultJedisSocketFactory.java
-C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/JedisCluster.java
-C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/JedisClusterCommand.java

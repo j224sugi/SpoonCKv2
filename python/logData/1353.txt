@@ -1,3 +1,0 @@
-c6507e61878479229860d987a1f701e593afb9c7
-C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/Connection.java
-C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/JedisException.java

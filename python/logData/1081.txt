@@ -1,2 +1,0 @@
-0ebbf02c944308fdb367dfd4e0373534b0975838
-C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/exceptions/JedisAskDataException.java

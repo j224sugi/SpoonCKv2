@@ -1,3 +1,0 @@
-6485a7ec08c5293c5c0e0ddb256213d122798b88
-C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/MultiKeyBinaryRedisPipeline.java
-C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/MultiKeyPipelineBase.java

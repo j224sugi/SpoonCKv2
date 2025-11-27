@@ -1,3 +1,0 @@
-2618da570d6717962de886e01f2c0c6f31a18b67
-C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/CommandObjects.java
-C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/UnifiedJedis.java

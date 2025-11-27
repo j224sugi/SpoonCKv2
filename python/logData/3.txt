@@ -1,2 +1,0 @@
-fa52d666741e13fab72fe991f539048fbb4a85d2
-C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/StaticCommandFlagsRegistry.java

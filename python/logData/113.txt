@@ -1,7 +1,0 @@
-c1cc657e8b3a984aab8779f84aa0ff55c2b29118
-C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/UnifiedJedis.java
-C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/mcf/CircuitBreakerCommandExecutor.java
-C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/mcf/CircuitBreakerFailoverBase.java
-C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/mcf/CircuitBreakerFailoverConnectionProvider.java
-C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/mcf/MultiClusterPipeline.java
-C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/mcf/MultiClusterTransaction.java

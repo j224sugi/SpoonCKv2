@@ -1,5 +1,0 @@
-e93e5262386546732554c75c839175797016059d
-C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/BinaryJedisPubSub.java
-C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/Jedis.java
-C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/JedisPubSub.java
-C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/UnifiedJedis.java

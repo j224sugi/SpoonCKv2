@@ -1,7 +1,0 @@
-ef4ab403f9d8fd88bd05092fea96de2e9db0bede
-C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/BinaryJedisCluster.java
-C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/JedisCluster.java
-C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/JedisClusterConnectionHandler.java
-C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/JedisClusterHostAndPortMap.java
-C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/JedisClusterInfoCache.java
-C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/JedisSlotBasedConnectionHandler.java

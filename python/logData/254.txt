@@ -1,3 +1,0 @@
-558acbbaa021c87e145f578012bcb758be90a85d
-C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/JedisPooled.java
-C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/providers/PooledConnectionProvider.java

@@ -1,5 +1,0 @@
-bb0816b302e7cec945361f0dce96b9721e9cdfb9
-C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/BasicCommands.java
-C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/BinaryJedis.java
-C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/ClusterCommands.java
-C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/Jedis.java

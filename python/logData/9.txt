@@ -1,4 +1,0 @@
-840eb9e6a20a0b511739c47b74d68e360387ee32
-C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/MultiDbConfig.java
-C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/UnifiedJedis.java
-C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/mcf/PingStrategy.java

@@ -1,5 +1,0 @@
-cc0ef89b7d5aa00769a8ed3d340b8eaf2fcf6167
-C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/BinaryJedis.java
-C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/BinaryJedisCommands.java
-C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/BinaryShardedJedis.java
-C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/MultiKeyBinaryCommands.java

@@ -1,6 +1,0 @@
-a8987ed865e1034f83d1e6a3ef681582ccb8a614
-C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/BinaryJedis.java
-C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/JedisCluster.java
-C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/JedisPool.java
-C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/Protocol.java
-C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/exceptions/JedisMovedDataException.java

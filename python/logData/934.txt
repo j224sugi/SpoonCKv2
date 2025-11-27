@@ -1,3 +1,0 @@
-cc3fe856084213f9aeed1899644b581a377d7ee7
-C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/BuilderFactory.java
-C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/Pipeline.java

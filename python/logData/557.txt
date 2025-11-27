@@ -1,2 +1,0 @@
-6b86fe7f1d6f72ec7a9dfb5de79386f9e500dc6b
-C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/JedisSentinelPool.java

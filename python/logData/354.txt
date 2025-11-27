@@ -1,3 +1,0 @@
-49bf43796546bf6fe7298da1e400a27975ae6c39
-C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/Pipeline.java
-C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/commands/DatabasePipelineCommands.java

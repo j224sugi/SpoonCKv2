@@ -1,7 +1,0 @@
-f93f37ab7d41bccd2d1d9c7a965920ba42dce11d
-C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/BinaryJedis.java
-C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/Jedis.java
-C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/Pipeline.java
-C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/SortingParams.java
-C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/util/JedisClusterCRC16.java
-C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/util/MurmurHash.java

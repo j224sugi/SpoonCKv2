@@ -1,4 +1,0 @@
-3dd2dd29e0480dbc7c0846928553fc17ab9115ea
-C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/Protocol.java
-C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/commands/ClientCommands.java
-C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/params/ClientKillParams.java

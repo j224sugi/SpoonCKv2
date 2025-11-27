@@ -1,5 +1,0 @@
-25b3c6520555cfa18794ce82442120a9ee27eb1b
-C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/MultiNodePipelineBase.java
-C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/Pipeline.java
-C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/TransactionBase.java
-C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/json/RedisJsonPipelineCommands.java

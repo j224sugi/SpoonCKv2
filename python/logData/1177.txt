@@ -1,9 +1,0 @@
-9dc89626acd935af65460c0ebd071c245e68328a
-C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/BinaryClient.java
-C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/BinaryJedis.java
-C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/BinaryJedisCommands.java
-C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/BinaryShardedJedis.java
-C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/Client.java
-C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/Connection.java
-C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/Jedis.java
-C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/Protocol.java

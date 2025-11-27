@@ -1,3 +1,0 @@
-4d078d747e2bc9024b59930c6a3dd4af6f3d1adb
-C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/Client.java
-C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/Jedis.java

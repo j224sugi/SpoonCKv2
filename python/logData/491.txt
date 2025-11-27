@@ -1,2 +1,0 @@
-c9ba33b940cffbf3e8c656361e8882012f7da125
-C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/params/Params.java

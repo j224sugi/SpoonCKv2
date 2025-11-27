@@ -1,4 +1,0 @@
-e062f9f511b3bd74d29875fc3287894290625acc
-C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/JedisCluster.java
-C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/JedisClusterCommand.java
-C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/JedisClusterScriptingCommands.java

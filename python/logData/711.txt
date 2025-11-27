@@ -1,2 +1,0 @@
-9577fbdc8cecd6c8cd90c15a396683379b9883ee
-C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/JedisFactory.java

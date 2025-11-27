@@ -1,2 +1,0 @@
-42a6523041e710087640ceaab11d3abcd34f3a72
-C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/HostAndPort.java

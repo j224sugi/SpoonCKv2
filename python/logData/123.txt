@@ -1,3 +1,0 @@
-cef8e4068a0cdb1c8aa492accbca2d64dc7a32e8
-C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/search/FieldName.java
-C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/search/schemafields/SchemaField.java

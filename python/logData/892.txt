@@ -1,2 +1,0 @@
-8c1bf69a999738fed70e97bf90f2d1cc393704a2
-C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/JedisShardInfo.java

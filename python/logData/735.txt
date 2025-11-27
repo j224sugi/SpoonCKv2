@@ -1,3 +1,0 @@
-f19aa6808017184bfb71e7cff269269068bf8978
-C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/BinaryClient.java
-C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/Protocol.java

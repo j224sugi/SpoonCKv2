@@ -1,4 +1,0 @@
-11fec5c182bdace70b32ff8e4099fb402cb4f815
-C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/BinaryClient.java
-C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/JedisPubSub.java
-C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/Protocol.java

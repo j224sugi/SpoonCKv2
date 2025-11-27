@@ -1,3 +1,0 @@
-454f783a7a62768eb5807f4ad8e70732fbad06f1
-C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/BinaryClient.java
-C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/params/set/SetParams.java

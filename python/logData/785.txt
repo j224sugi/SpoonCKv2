@@ -1,2 +1,0 @@
-ec88b4ad780ddbf8b7cde9f4ffbf2ba38c70400f
-C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/Tuple.java

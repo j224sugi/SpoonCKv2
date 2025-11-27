@@ -1,5 +1,0 @@
-ae29bce70fb9d3b3d3f2fad4f164b533e6f7c2d0
-C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/CommandObjects.java
-C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/UnifiedJedis.java
-C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/search/RediSearchCommands.java
-C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/search/SearchProtocol.java

@@ -1,2 +1,0 @@
-2229a34116c1a32a1652149b9f0be52b74c7ae69
-C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/JedisCluster.java

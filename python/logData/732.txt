@@ -1,5 +1,0 @@
-76d2402bff522013cba4e71266d7479b2ad09c9f
-C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/JedisClusterCommand.java
-C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/JedisPool.java
-C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/JedisPubSub.java
-C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/JedisShardInfo.java

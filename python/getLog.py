@@ -35,6 +35,5 @@ def getLog(rootProject,LogDir):
             with open(os.path.join(saveLogDir , str(k) + ".txt"), "w", encoding="utf-8") as f:
                 f.write(fileWrite)
                 
-                
 # gitプロジェクトのパスから、test info を除いた Javaファイル を変更したlog( commitID と　変更Javaファイル )をlogDataに保存する　※１つのコミットに対して１つのファイル
 #git show

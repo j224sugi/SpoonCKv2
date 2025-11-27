@@ -1,7 +1,0 @@
-6f08468f903f826dcbf9a7d088fd974502708eff
-C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/BinaryJedis.java
-C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/BinaryShardedJedis.java
-C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/Jedis.java
-C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/JedisFactory.java
-C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/ShardedJedis.java
-C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/ShardedJedisPool.java

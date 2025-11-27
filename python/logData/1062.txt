@@ -1,4 +1,0 @@
-bc7cc5eddba1f49ae513f468fbd22c4e6a6e12a2
-C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/PipelineBlock.java
-C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/Transaction.java
-C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/TransactionBlock.java

@@ -1,8 +1,0 @@
-9383cd4cce54766cd80a3d30a4f710475c38da35
-C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/CommandObjects.java
-C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/UnifiedJedis.java
-C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/search/FTSearchParams.java
-C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/search/FTSpellCheckParams.java
-C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/search/Query.java
-C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/search/aggr/AggregationBuilder.java
-C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/search/aggr/FtAggregateIteration.java

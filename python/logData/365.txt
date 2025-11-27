@@ -1,4 +1,0 @@
-4b13142ed271776927440abda1d8819c30db19c6
-C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/Jedis.java
-C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/Protocol.java
-C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/commands/ServerCommands.java

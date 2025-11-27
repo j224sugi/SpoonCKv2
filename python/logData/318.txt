@@ -1,3 +1,0 @@
-44be77dc238b73348a691320c5c268fab0f9b668
-C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/Jedis.java
-C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/commands/ConfigCommands.java

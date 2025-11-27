@@ -1,3 +1,0 @@
-2c6ade7b4ad7efebde9ca1dcf63e3d6736bd4a8b
-C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/HostAndPort.java
-C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/JedisSentinelPool.java

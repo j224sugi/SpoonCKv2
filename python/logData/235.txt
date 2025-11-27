@@ -1,3 +1,0 @@
-1ddaa71ec2112ba3823c9f43ac9c8c7972a66255
-C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/search/aggr/AggregationResult.java
-C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/search/aggr/Row.java

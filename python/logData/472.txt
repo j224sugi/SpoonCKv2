@@ -1,9 +1,0 @@
-e1ad3bab78a491d6e7e19ee6bc7ba4df8ee72c84
-C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/BinaryJedis.java
-C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/Connection.java
-C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/DefaultJedisClientConfig.java
-C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/DefaultJedisSocketFactory.java
-C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/JedisClientConfig.java
-C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/JedisClusterConnectionHandler.java
-C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/JedisClusterInfoCache.java
-C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/JedisFactory.java

@@ -1,5 +1,0 @@
-cf60d25f98a022316ed2b47b2c89dff9313f44b8
-C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/JedisCluster.java
-C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/JedisPooled.java
-C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/JedisSentineled.java
-C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/UnifiedJedis.java

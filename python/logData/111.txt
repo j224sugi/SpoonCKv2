@@ -1,9 +1,0 @@
-335fc7c1040090776d92e2a73c2a13f8623164af
-C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/MultiClusterClientConfig.java
-C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/Protocol.java
-C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/mcf/CircuitBreakerCommandExecutor.java
-C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/mcf/CircuitBreakerFailoverBase.java
-C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/mcf/CircuitBreakerFailoverConnectionProvider.java
-C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/mcf/MultiClusterPipeline.java
-C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/mcf/MultiClusterTransaction.java
-C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/providers/MultiClusterPooledConnectionProvider.java

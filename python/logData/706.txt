@@ -1,6 +1,0 @@
-b0584a020c2f746c90f8c373ed959a3bb461a0c2
-C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/BinaryJedis.java
-C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/BinaryJedisCluster.java
-C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/BinaryShardedJedis.java
-C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/commands/BinaryJedisClusterCommands.java
-C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/commands/BinaryJedisCommands.java

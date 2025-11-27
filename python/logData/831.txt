@@ -1,4 +1,0 @@
-667c7f4b10b74a30977323faf36cb8f5f29c34e2
-C:\Users\syuuj\gitProject\jedis\4b237f575476c9de67451b01aff6323fabc9a663
-C:\Users\syuuj\gitProject\jedis\6db79fe69b4015170af1596395950f2d59f61d53
-C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/Connection.java

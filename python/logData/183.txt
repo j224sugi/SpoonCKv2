@@ -1,8 +1,0 @@
-63141ec87827eaa8e4d3742dcb899efbf3226097
-C:\Users\syuuj\gitProject\jedis\b156dcb76e1bdbe5464251a0ed885426c501c4b6
-C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/Jedis.java
-C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/JedisFactory.java
-C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/JedisPooled.java
-C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/RedisProtocol.java
-C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/UnifiedJedis.java
-C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/util/JedisURIHelper.java

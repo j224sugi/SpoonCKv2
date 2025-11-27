@@ -1,7 +1,0 @@
-6efeb45952d30aca42c7bfc331becb8d0a7e3619
-C:\Users\syuuj\gitProject\jedis\bfecfcb74405cd0245eb0d871f015290306b9cb6
-C:\Users\syuuj\gitProject\jedis\d5f984a9d6a186c908ac3b1f86c10d5ce8b9c1ae
-C:\Users\syuuj\gitProject\jedis\4ab54d955d9e8dd01501b9a30e6f3f2576109464
-C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/BinaryClient.java
-C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/Client.java
-C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/Jedis.java

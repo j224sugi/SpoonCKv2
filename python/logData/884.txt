@@ -1,4 +1,0 @@
-7e24eacc25ebddbd113333aada112a9e504a41af
-C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/BinaryClient.java
-C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/BinaryJedis.java
-C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/MultiKeyPipelineBase.java

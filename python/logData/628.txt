@@ -1,2 +1,0 @@
-271f32a2a034377f15ce1c1d28705c9cd47e03cf
-C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/Client.java

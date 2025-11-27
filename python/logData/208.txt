@@ -1,7 +1,0 @@
-14cd22f78bb12d5cf0ba0e7f6cf63a18dcb310cb
-C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/JedisCluster.java
-C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/JedisSharding.java
-C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/ReliableTransaction.java
-C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/Transaction.java
-C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/TransactionBase.java
-C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/UnifiedJedis.java

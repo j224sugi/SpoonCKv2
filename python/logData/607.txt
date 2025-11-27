@@ -1,2 +1,0 @@
-d054adb540b257d51ec82c8d1e56629a6c3eae00
-C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/Protocol.java

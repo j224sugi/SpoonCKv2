@@ -1,5 +1,0 @@
-9f248fedcb19802a1979d106a069dc6dad3af4ba
-C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/graph/ResultSetBuilder.java
-C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/graph/entities/Edge.java
-C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/graph/entities/GraphEntity.java
-C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/graph/entities/Node.java

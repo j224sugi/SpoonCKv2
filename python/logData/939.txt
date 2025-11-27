@@ -1,3 +1,0 @@
-f8c69b105a8b995fdb74821557aeb5f01819d845
-C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/JedisClusterConnectionHandler.java
-C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/JedisRandomConnectionHandler.java

@@ -1,5 +1,0 @@
-cfd5bd1ea71558b383e8ead5f1e0e240a8e53389
-C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/BasicCommands.java
-C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/BinaryClient.java
-C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/BinaryJedis.java
-C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/Protocol.java

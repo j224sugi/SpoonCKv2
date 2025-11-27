@@ -1,7 +1,0 @@
-af920359eccd2e261c01f7f477f5eb0d22c57959
-C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/CommandObjects.java
-C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/PipelineBase.java
-C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/TransactionBase.java
-C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/UnifiedJedis.java
-C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/search/RediSearchCommands.java
-C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/search/RediSearchPipelineCommands.java

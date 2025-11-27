@@ -1,3 +1,0 @@
-4a1f35b1e4175a8181b3af8e56df54f125e8305a
-C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/BuilderFactory.java
-C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/Protocol.java

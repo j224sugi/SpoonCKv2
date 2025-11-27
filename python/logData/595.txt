@@ -1,4 +1,0 @@
-027f8dab306575c1ecf6f6a9a7521254f54a0bda
-C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/PipelineBase.java
-C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/commands/BinaryRedisPipeline.java
-C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/commands/RedisPipeline.java

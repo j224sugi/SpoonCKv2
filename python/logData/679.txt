@@ -1,7 +1,0 @@
-34c42d738e522e0aa2c540d8c1dd1cf743370475
-C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/Client.java
-C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/JedisCluster.java
-C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/commands/Commands.java
-C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/commands/JedisClusterCommands.java
-C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/commands/JedisCommands.java
-C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/commands/RedisPipeline.java

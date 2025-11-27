@@ -1,4 +1,0 @@
-52785df5f053747f9c8cc492b2e7a8090eda332d
-C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/BinaryJedisCluster.java
-C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/ScanParams.java
-C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/util/JedisClusterHashTagUtil.java

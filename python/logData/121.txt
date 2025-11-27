@@ -1,2 +1,0 @@
-7882756c6a31debfcccbbebccc020b352342f2a3
-C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/util/JedisMetaInfo.java

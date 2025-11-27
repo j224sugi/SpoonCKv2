@@ -1,2 +1,0 @@
-c8245ec208d1ec9ff7566e788f0138d9e364ad86
-C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/graph/ResultSetBuilder.java

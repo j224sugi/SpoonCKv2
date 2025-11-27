@@ -1,2 +1,0 @@
-badfe9898fc22a96d0dd22d4db4da5ffb8a81f76
-C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/MultiNodePipelineBase.java

@@ -1,2 +1,0 @@
-0c78fdbceac8dcee07308ab2b871a4b4f04a8d6f
-C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/search/RediSearchUtil.java

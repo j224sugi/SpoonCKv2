@@ -1,6 +1,0 @@
-f2150810206d9e5eee16225d09c546bd4911cccd
-C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/BinaryJedis.java
-C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/Jedis.java
-C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/JedisClusterConnectionHandler.java
-C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/JedisSentinelPool.java
-C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/JedisShardInfo.java

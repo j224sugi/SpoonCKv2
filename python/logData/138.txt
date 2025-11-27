@@ -1,2 +1,0 @@
-58c375e2cbf25ab848f4fd4d7d935721fd35f356
-C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/JedisSentineled.java

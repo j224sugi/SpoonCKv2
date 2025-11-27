@@ -1,7 +1,0 @@
-e2d814880236ef7dad06152033140d607d5b6aac
-C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/BinaryShardedJedis.java
-C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/ShardedJedis.java
-C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/ShardedJedisPipeline.java
-C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/util/Hashing.java
-C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/util/MurmurHash.java
-C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/util/Sharded.java

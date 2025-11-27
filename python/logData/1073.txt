@@ -1,5 +1,0 @@
-1b268157999abf69367fd2b6de7c7aed7b649896
-C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/JedisClusterCommand.java
-C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/JedisClusterConnectionHandler.java
-C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/Protocol.java
-C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/exceptions/JedisMovedDataException.java

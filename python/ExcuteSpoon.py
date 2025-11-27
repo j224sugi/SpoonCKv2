@@ -7,3 +7,4 @@ def ExcuteSpoon(full,diff,tmpResult):
 
     spoonCMD=["java","-jar","target/demo-1.0-snapshot.jar",full,diff,outPutDir]
     subprocess.run(spoonCMD,cwd=SpoonRootDir)
+    

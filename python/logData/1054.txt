@@ -1,3 +1,0 @@
-bd19193cb63420721320ed3003b41c931a230907
-C:\Users\syuuj\gitProject\jedis\319a241de0d3c52989e88622e4e450252f0714f5
-C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/BuilderFactory.java

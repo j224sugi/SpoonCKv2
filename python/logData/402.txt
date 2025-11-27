@@ -1,6 +1,0 @@
-6554807903b5c18409bb0dd4983cf2ee938333ee
-C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/BinaryClient.java
-C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/BinaryJedis.java
-C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/args/ClientPauseMode.java
-C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/commands/AdvancedBinaryJedisCommands.java
-C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/commands/AdvancedJedisCommands.java

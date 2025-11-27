@@ -1,3 +1,0 @@
-b833089005d3c1081248d1a49b30822d68e2393f
-C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/BinaryTransaction.java
-C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/Transaction.java

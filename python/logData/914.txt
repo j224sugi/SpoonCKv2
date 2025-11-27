@@ -1,3 +1,0 @@
-b09a1e2634d86ddc6418aadff5a41e8658ee2749
-C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/MultiKeyPipelineBase.java
-C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/PipelineBase.java

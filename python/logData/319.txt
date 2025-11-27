@@ -1,8 +1,0 @@
-436aa92f136c1f42a6ae7e50bdcc8ca084e6f0c8
-C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/CommandObjects.java
-C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/Jedis.java
-C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/Pipeline.java
-C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/Protocol.java
-C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/commands/AccessControlLogBinaryCommands.java
-C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/commands/AccessControlLogCommands.java
-C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/params/FailoverParams.java

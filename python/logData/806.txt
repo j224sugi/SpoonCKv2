@@ -1,3 +1,0 @@
-39a6d167cff46d6348d635c7bc0d183dc23755d7
-C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/Connection.java
-C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/Protocol.java

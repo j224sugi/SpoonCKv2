@@ -1,3 +1,0 @@
-d4d46f9638f35003ef6283f8602d2a286e597479
-C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/Connection.java
-C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/JedisMetaInfo.java

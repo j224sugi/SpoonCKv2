@@ -1,4 +1,0 @@
-2504f23bdf7229fd7e10be72eafecbf75b99f70c
-C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/BinaryJedisPubSub.java
-C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/Connection.java
-C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/JedisPubSub.java

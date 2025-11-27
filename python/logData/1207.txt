@@ -1,3 +1,0 @@
-44c3eef60ed4c4f06207bbdfefb307cee7789e4d
-C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/BinaryTransaction.java
-C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/BuilderFactory.java

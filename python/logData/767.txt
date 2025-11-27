@@ -1,7 +1,0 @@
-dedc8d1936669c82c98cce415402bb15b78bc4cf
-C:\Users\syuuj\gitProject\jedis\6cff58123292c1f1c18d1c7f6b7c3624ca0336bc
-C:\Users\syuuj\gitProject\jedis\129ed2f4540e73bd3abc9f733abba68c509202e5
-C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/BinaryClient.java
-C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/BinaryJedis.java
-C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/Client.java
-C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/PipelineBase.java

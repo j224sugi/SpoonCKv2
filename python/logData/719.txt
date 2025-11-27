@@ -1,3 +1,0 @@
-3a637f53def65f13df083b1c6e0a9ed776b2bbba
-C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/commands/JedisClusterCommands.java
-C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/commands/MultiKeyJedisClusterCommands.java

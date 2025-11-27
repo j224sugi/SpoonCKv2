@@ -1,5 +1,0 @@
-fac7ddd9b25c3f5fb42bb0e488139bbe86c85623
-C:\Users\syuuj\gitProject\jedis\13cfd1e2aeb9d71ded557eb2d2f1e6787124b30e
-C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/commands/BasicCommands.java
-C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/commands/JedisClusterCommands.java
-C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/commands/MultiKeyCommands.java

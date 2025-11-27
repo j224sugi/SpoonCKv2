@@ -1,3 +1,0 @@
-816a958b8332944f6a4b436b01349894c06c95be
-C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/Jedis.java
-C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/ShardedJedis.java

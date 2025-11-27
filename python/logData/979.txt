@@ -1,6 +1,0 @@
-bc9e49d6c904bf0bf56b6492bea5933c041fd63e
-C:\Users\syuuj\gitProject\jedis\20d1450124deab264ec498509e3e0ad4d75774cf
-C:\Users\syuuj\gitProject\jedis\8f52dc743fc37d954c028900acf8823f4cacdf87
-C:\Users\syuuj\gitProject\jedis\c17a228b45cd8d9749bc0bb5f210f63014a71d96
-C:\Users\syuuj\gitProject\jedis\ab2f43b8c0155f03c8b8f3932141630e1c825f65
-C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/JedisSentinelPool.java

@@ -1,5 +1,0 @@
-0c9c4c8b790efd466bd7d90a251c0839b8f2b3ee
-C:\Users\syuuj\gitProject\jedis\59a13121ab9bb0a82e9fb6d56f036827c7c37330
-C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/Connection.java
-C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/Protocol.java
-C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/util/RedisInputStream.java

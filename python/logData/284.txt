@@ -1,3 +1,0 @@
-0a4ca6760c940a6d25ef1010f98fb38bc358a5cd
-C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/BuilderFactory.java
-C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/CommandObjects.java

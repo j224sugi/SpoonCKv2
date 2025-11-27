@@ -1,3 +1,0 @@
-edcf7412ff2280f0e85fcffb6f7ea2b43631fb91
-C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/util/Hashing.java
-C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/util/MurmurHash.java

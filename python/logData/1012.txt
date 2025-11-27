@@ -1,5 +1,0 @@
-863483017b8145d93439b49e3e7a9f2237453a97
-C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/JedisCluster.java
-C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/JedisClusterCommand.java
-C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/JedisClusterScriptingCommands.java
-C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/exceptions/JedisClusterDifferentConnectionsException.java

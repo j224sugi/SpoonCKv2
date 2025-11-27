@@ -1,3 +1,0 @@
-8c04f1026e39f48bca975d2f374e78bb9ae7abb4
-C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/CommandObjects.java
-C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/GsonJson.java

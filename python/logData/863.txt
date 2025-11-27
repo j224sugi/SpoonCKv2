@@ -1,2 +1,0 @@
-69ba3fa59b751ae8cf834ae8a777df9b522ef3da
-C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/params/set/SetParams.java

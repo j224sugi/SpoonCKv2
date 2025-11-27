@@ -1,4 +1,0 @@
-8a0054fe3ec82f589c6a24025cc7c83c5ee318a8
-C:\Users\syuuj\gitProject\jedis\28fb816bef60610815067f909d11cff426ec0d41
-C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/BinaryJedisPubSub.java
-C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/JedisPubSub.java

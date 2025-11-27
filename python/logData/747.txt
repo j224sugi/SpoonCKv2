@@ -1,6 +1,0 @@
-03b74ae244d19ae00b2f08a72657e668cbe7c179
-C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/BuilderFactory.java
-C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/util/JedisClusterCRC16.java
-C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/util/JedisURIHelper.java
-C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/util/KeyMergeUtil.java
-C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/util/SafeEncoder.java

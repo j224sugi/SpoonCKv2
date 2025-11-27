@@ -1,5 +1,0 @@
-8a5948a84a11918d99304e1c213296691b8f2050
-C:\Users\syuuj\gitProject\jedis\ef3a532902a01ce56710beb32bee628dce9f473e
-C:\Users\syuuj\gitProject\jedis\fb33b262e499a0d50364ead9f75255e841c02634
-C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/JedisPool.java
-C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/Protocol.java

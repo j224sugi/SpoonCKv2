@@ -1,5 +1,0 @@
-ac70d2352f9a24f7ec7ba7d1b0021e8b799446a9
-C:\Users\syuuj\gitProject\jedis\b7eb51f75c1d33ade45840865d25379fbc2edcf3
-C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/Commands.java
-C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/Pipeline.java
-C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/PipelineBlock.java

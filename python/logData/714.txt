@@ -1,3 +1,0 @@
-0551ca51f98eec4519e6c08dbd6d68ea0d282aca
-C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/Protocol.java
-C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/exceptions/JedisNoScriptException.java

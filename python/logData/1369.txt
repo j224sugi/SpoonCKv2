@@ -1,2 +1,0 @@
-f55deca6785895b456de9cbb41ff2338f28f136d
-C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/Transaction.java

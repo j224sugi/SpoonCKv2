@@ -1,8 +1,0 @@
-6092720af46e2e2c3e4b6ee82b9a73e7ff56e58c
-C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/BroadcastResponse.java
-C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/JedisBroadcast.java
-C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/UnifiedJedis.java
-C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/providers/ClusterConnectionProvider.java
-C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/providers/ConnectionProvider.java
-C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/providers/PooledConnectionProvider.java
-C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/providers/ShardedConnectionProvider.java

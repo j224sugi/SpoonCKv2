@@ -1,8 +1,0 @@
-17b455065d2b8cba10e146dbbfc8d52137069be1
-C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/DefaultJedisClientConfig.java
-C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/JedisClientConfig.java
-C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/JedisFactory.java
-C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/JedisPool.java
-C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/JedisPoolAbstract.java
-C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/JedisSentinelPool.java
-C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/util/Pool.java

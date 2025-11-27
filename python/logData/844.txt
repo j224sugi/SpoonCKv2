@@ -1,3 +1,0 @@
-51bbd693f7444676a6a808cd599af13d5068377b
-C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/JedisSentinelPool.java
-C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/ShardedJedisPool.java

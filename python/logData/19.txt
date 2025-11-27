@@ -1,5 +1,0 @@
-9187e246989f5898a6013654cb761e80c055028c
-C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/JedisClusterInfoCache.java
-C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/executors/ClusterCommandExecutor.java
-C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/providers/ClusterConnectionProvider.java
-C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/providers/ConnectionProvider.java

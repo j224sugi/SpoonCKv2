@@ -1,3 +1,0 @@
-fa614bd2b805da4662e045058c532c33d6a82dda
-C:\Users\syuuj\gitProject\jedis\46966fb89f6fa9383bef7009f1949d3002594438
-C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/JedisCluster.java

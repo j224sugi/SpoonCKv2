@@ -1,3 +1,0 @@
-7b121c4f35ce5d733f157030974c1ee70ee2b710
-C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/search/SearchProtocol.java
-C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/search/aggr/AggregationBuilder.java

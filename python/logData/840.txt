@@ -1,8 +1,0 @@
-30986c51de6d914a1f10f620613674af017c65ea
-C:\Users\syuuj\gitProject\jedis\6e6eacd8b30ac6e47a4287d8a35904a8c2f827c2
-C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/JedisCluster.java
-C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/JedisClusterCommand.java
-C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/JedisClusterConnectionHandler.java
-C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/JedisClusterInfoCache.java
-C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/JedisPoolAbstract.java
-C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/JedisSlotBasedConnectionHandler.java

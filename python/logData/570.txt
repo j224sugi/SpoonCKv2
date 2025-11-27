@@ -1,4 +1,0 @@
-c9c118aa86a1ff473b94dddd7fb28d640837e194
-C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/params/GeoRadiusParam.java
-C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/params/Params.java
-C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/params/SetParams.java

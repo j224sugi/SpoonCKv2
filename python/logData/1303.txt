@@ -1,3 +1,0 @@
-0beeddce5db2fa6e9e5dc39eeb5d23d46b2ea775
-C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/BinaryJedis.java
-C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/Tuple.java

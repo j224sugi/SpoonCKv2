@@ -1,3 +1,0 @@
-0fe1e2ace964effed0abdbb0a8ae3e5d4bf4ec7d
-C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/Protocol.java
-C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/exceptions/AbortedTransactionException.java

@@ -1,5 +1,0 @@
-22d4d3fc535890d1ca3c0ba400191ee0efbfe009
-C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/BinaryTransaction.java
-C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/Connection.java
-C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/Protocol.java
-C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/Response.java

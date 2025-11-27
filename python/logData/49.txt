@@ -1,4 +1,0 @@
-2fdf928c33b6462f7452b3014e44eb49b58cc9f7
-C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/BuilderFactory.java
-C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/Jedis.java
-C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/resps/CommandInfo.java

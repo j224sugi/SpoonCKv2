@@ -1,3 +1,0 @@
-f11c1622de1d529cad509b7793977714229f4883
-C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/Connection.java
-C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/JedisPubSub.java

@@ -1,2 +1,0 @@
-4ddd7f4839411a49fb8b12c3729c0537c08702f9
-C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/providers/SentineledConnectionProvider.java

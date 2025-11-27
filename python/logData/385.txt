@@ -1,6 +1,0 @@
-022a9afd244a0d89a20b4a5bd2eef85b25f976c2
-C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/ClusterPipeline.java
-C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/JedisCluster.java
-C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/MultiNodePipelineBase.java
-C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/ShardedPipeline.java
-C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/providers/ClusterConnectionProvider.java

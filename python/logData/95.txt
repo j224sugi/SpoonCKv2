@@ -1,4 +1,0 @@
-845a01f375975131283ff8d005e7d29493eb295d
-C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/PipeliningBase.java
-C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/bloom/commands/CuckooFilterPipelineCommands.java
-C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/timeseries/RedisTimeSeriesPipelineCommands.java

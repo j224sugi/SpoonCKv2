@@ -1,3 +1,0 @@
-607d31d96b70b93a95dd1b4611a1b5137c0b76d6
-C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/BinaryClient.java
-C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/Connection.java

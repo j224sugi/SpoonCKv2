@@ -1,2 +1,0 @@
-c04e44d42fb5219108d69fae00440d6565d79f63
-C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/params/XAddParams.java

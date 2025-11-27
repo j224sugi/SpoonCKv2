@@ -53,9 +53,13 @@ def editMethod(SpoonFile, CKFile, outPutFolder, fileName):
             os.path.join(outPutFolder,"allMethod.csv"),mode="a",header=False,index=False
         )
         
+def makeNewDir(file):
+    if os.path.isdir(file):
+        shutil.rmtree(file)
+    os.makedirs(file)
+    
 #projectFolder=sys.argv[1]
 #outPutFolder=sys.argv[2]
-
 Folders=[["C:\\Users\\syuuj\\gitProject\\checkstyle","C:\\Users\\syuuj\\gitProjectMetrics\\checkstyleResult"],["C:\\Users\\syuuj\\gitProject\\fastjson","C:\\Users\\syuuj\\gitProjectMetrics\\fastjsonResult"],["C:\\Users\\syuuj\\gitProject\\jedis","C:\\Users\\syuuj\\gitProjectMetrics\\jedisResult"]]
 
 for AnalyzeSet in Folders:
@@ -74,11 +78,11 @@ for AnalyzeSet in Folders:
     tmpSpoonMethodResult=os.path.join(tmpResult,"spoonMethod.csv")       #各ツールの結果を一時保存する場所，結合する必要あり
     os.makedirs(tmpResult,exist_ok=True)            #一時保存するフォルダを作成
 
-    LogDir=os.path.join(absolutePath,"logData")                  #ログのjava差分ファイル
-    LogFullDir=os.path.join(absolutePath,"logFull")              #あるコミット時点の全てのjavaファイル
-    if os.path.isdir(LogFullDir):
-        shutil.rmtree(LogFullDir)
-    os.makedirs(LogFullDir)
+    LogDir=os.path.join(outPutFolder,"logData")                  #ログのjava差分ファイル
+    makeNewDir(LogDir)
+    
+    LogFullDir=os.path.join(outPutFolder,"logFull")              #あるコミット時点の全てのjavaファイル
+    makeNewDir(LogFullDir)
 
     getLog.getLog(projectFolder,LogDir)
     with open(os.path.join(LogDir,"logHash.txt"),"r",encoding="utf-8") as f:

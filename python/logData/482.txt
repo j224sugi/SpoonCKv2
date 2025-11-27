@@ -1,2 +1,0 @@
-99e9836fb9c826ab924f77fd2534f706dd9636a9
-C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/params/MigrateParams.java

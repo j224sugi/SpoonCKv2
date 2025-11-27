@@ -1,2 +1,0 @@
-2896ddddeb971f4f7e81f7e7672a2874207e649a
-C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/JedisPoolConfig.java

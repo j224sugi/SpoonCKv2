@@ -1,7 +1,0 @@
-cb038cf880cf275996b80493aa82f0b84b7ff5c4
-C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/BinaryJedis.java
-C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/GeoCoordinate.java
-C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/HostAndPort.java
-C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/Module.java
-C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/Tuple.java
-C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/util/JedisByteHashMap.java

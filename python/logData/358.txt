@@ -1,2 +1,0 @@
-240230582b8a7c11e855004aab490bf10622502b
-C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/DefaultJedisSocketFactory.java

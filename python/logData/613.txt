@@ -1,3 +1,0 @@
-f72c86fd7fe4210f5113b6aaf18d18c062765fcf
-C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/JedisPool.java
-C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/util/Pool.java

@@ -1,3 +1,0 @@
-c404a8526c412e80d4dabf6cf8200ae48c288036
-C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/ConnectionPoolConfig.java
-C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/JedisPoolConfig.java

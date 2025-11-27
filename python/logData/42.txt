@@ -1,3 +1,0 @@
-80ba2d53be559f351fa0a647c03fbd7c98421c6b
-C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/search/SearchResult.java
-C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/search/aggr/AggregationResult.java

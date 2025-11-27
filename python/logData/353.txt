@@ -1,2 +1,0 @@
-192a43a1db0f6a2dcc02f9d7e10a70fd6292358f
-C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/commands/ConfigCommands.java

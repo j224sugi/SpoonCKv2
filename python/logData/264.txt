@@ -1,3 +1,0 @@
-1b9ee9696c9be9b94ca24f0b06f48c589bf5f007
-C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/search/Document.java
-C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/search/SearchResult.java

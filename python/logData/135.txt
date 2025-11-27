@@ -1,6 +1,0 @@
-bb38c97af21dc5361195e38cb01f3398392c7373
-C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/ClientSetInfoConfig.java
-C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/Connection.java
-C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/DefaultClientSetInfoConfig.java
-C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/DefaultJedisClientConfig.java
-C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/JedisClientConfig.java

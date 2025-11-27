@@ -1,3 +1,0 @@
-f84ab56604798e8ad2f059f31a007509a0dfb77e
-C:\Users\syuuj\gitProject\jedis\b6d9441971fcaa499b0b8d7ac98d488830ba443e
-C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/HostAndPort.java

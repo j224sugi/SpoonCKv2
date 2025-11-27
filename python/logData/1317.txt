@@ -1,7 +1,0 @@
-85ce39ca3e251cf79904088f6f0ecf3c91432070
-C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/BinaryClient.java
-C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/Connection.java
-C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/Protocol.java
-C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/SortingParams.java
-C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/ZParams.java
-C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/util/RedisOutputStream.java

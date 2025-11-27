@@ -1,5 +1,0 @@
-bf9bba6ef221d5e9cb73232ac75576e18710becd
-C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/BinaryRedisPipeline.java
-C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/Pipeline.java
-C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/RedisPipeline.java
-C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/ShardedJedisPipeline.java

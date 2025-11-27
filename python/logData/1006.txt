@@ -1,6 +1,0 @@
-96591a1528f30a7b4b351d7485ce4270898c536e
-C:\Users\syuuj\gitProject\jedis\167a782c7afd733953d607ded44bf7a6aba4eb32
-C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/BinaryJedisCluster.java
-C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/JedisClusterBinaryScriptingCommands.java
-C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/JedisClusterCommand.java
-C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/util/JedisClusterCRC16.java

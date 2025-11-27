@@ -1,3 +1,0 @@
-211158bdca120233bcc14f69d0aa09c773b203a5
-C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/JedisPubSub.java
-C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/Protocol.java

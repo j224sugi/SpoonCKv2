@@ -1,2 +1,0 @@
-a94168bcc1aa940844fd7ee56c74ee36ef157bfa
-C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/ShardedJedis.java

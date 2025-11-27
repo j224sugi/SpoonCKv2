@@ -1,7 +1,0 @@
-95dd9a5e7399aa3c8ddfb3ce7147e439d1130cdb
-C:\Users\syuuj\gitProject\jedis\82d5aab9efd07b1d1fbf9748a588b0128d4c239d
-C:\Users\syuuj\gitProject\jedis\fb9db1708bda6efff7a594edfdfb92397165f6f8
-C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/BinaryClient.java
-C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/util/JedisClusterCRC16.java
-C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/util/RedisInputStream.java
-C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/util/RedisOutputStream.java

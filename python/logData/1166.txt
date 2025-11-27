@@ -1,6 +1,0 @@
-e8c27e0d15096289598fbea946d03e29402fd5bb
-C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/BinaryJedisCommands.java
-C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/BinaryShardedJedis.java
-C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/JedisCommands.java
-C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/ShardedJedis.java
-C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/util/Pool.java

@@ -1,5 +1,0 @@
-703244c85ed45191a5b4a6de88b8a76986f3942c
-C:\Users\syuuj\gitProject\jedis\8629360954b8e9ab65a9ba32daf91eafd835d993
-C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/ShardedJedis.java
-C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/util/Hashing.java
-C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/util/Sharded.java

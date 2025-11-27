@@ -1,4 +1,0 @@
-4a9b82a4821057f6d6d6d69f801c4d6b4d2a3157
-C:\Users\syuuj\gitProject\jedis\53e7dc218fdf8e703bad4cebf6ef7201b96d2b5e
-C:\Users\syuuj\gitProject\jedis\9a6d3f35fe45cbdec9abbb2b4ffd20fe056250aa
-C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/JedisClusterInfoCache.java

@@ -1,2 +1,0 @@
-c291f17b7fb9944f38b522fc7c0d9a50fcb12107
-C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/params/ClientKillParams.java

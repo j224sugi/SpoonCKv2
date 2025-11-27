@@ -1,6 +1,0 @@
-afefb71e57b0258a52b465b2b4e57c132aef4db9
-C:\Users\syuuj\gitProject\jedis\src/main/java/RedisTimeout.java
-C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/BinaryClient.java
-C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/Client.java
-C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/Jedis.java
-C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/Protocol.java

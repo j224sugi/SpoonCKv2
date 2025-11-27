@@ -1,7 +1,0 @@
-d58495127d3ac0c3ff8075815d52fedff0c90083
-C:\Users\syuuj\gitProject\jedis\18308d1dbf026d23a31aa3bca8964fdb258528e7
-C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/BinaryJedisCluster.java
-C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/JedisSentinelPool.java
-C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/MultiKeyPipelineBase.java
-C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/PipelineBase.java
-C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/util/IOUtils.java

@@ -1,2 +1,0 @@
-69de8d84d5c80330dfc3c9d759d92792940f5b14
-C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/ScanParams.java

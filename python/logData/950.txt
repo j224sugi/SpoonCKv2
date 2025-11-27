@@ -1,2 +1,0 @@
-b2193457613cb76bfc107d038140071c8674905c
-C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/Pipeline.java

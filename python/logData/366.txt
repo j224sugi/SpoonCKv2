@@ -1,5 +1,0 @@
-1196625eaa94f2cfcb56dde6b984f5b5c43f53e5
-C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/Jedis.java
-C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/Protocol.java
-C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/commands/ServerCommands.java
-C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/params/LolwutParams.java

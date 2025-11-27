@@ -1,2 +1,0 @@
-ec3582ad8321f7355b6f8f8a6ab00809f6291d5f
-C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/ClusterCommandObjects.java

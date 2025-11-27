@@ -1,9 +1,0 @@
-9a201c9bb9015306c12f76f35d84f85758773672
-C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/BinaryClient.java
-C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/DebugParams.java
-C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/JedisClusterConnectionHandler.java
-C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/JedisShardInfo.java
-C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/Tuple.java
-C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/util/Pool.java
-C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/util/RedisOutputStream.java
-C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/util/Slowlog.java

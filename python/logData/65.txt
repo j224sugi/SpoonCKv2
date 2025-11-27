@@ -1,2 +1,0 @@
-cd9a1ab9e7769f3a029c8a8e61daa8bfe14c8d18
-C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/Connection.java

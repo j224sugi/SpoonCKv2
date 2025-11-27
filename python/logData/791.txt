@@ -1,3 +1,0 @@
-3ff1c6c70f0f7fdc46776a4ec32ae95dcf2525ec
-C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/Pipeline.java
-C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/Transaction.java

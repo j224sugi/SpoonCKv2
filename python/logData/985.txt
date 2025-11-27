@@ -1,2 +1,0 @@
-942fc1d77bec65837e5b9b4becb8d13765f523b3
-C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/BasicRedisPipeline.java

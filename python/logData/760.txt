@@ -1,2 +1,0 @@
-133a45107bd5177bd6b41aa5e75a2cb69771ef94
-C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/JedisSlotBasedConnectionHandler.java
