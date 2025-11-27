@@ -1,0 +1,4 @@
+1bfc102b3b0201e84059b9f36313aa4e65da0407
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/BinaryJedisCluster.java
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/commands/BinaryJedisClusterCommands.java
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/commands/MultiKeyBinaryJedisClusterCommands.java

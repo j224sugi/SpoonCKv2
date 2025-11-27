@@ -1,0 +1,2 @@
+de16de1032ae8a11a3cc513654354fcb64139369
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/Jedis.java

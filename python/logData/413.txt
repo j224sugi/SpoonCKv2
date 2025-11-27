@@ -1,0 +1,2 @@
+e3fb56b6eef26211e70071ee81a44973942a1117
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/BinaryJedisCluster.java

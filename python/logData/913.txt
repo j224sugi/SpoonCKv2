@@ -1,0 +1,4 @@
+4ecca016a5f45789ec9b733ddb046bafca4972d6
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/BinaryJedisPubSubAdaptor.java
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/JedisPubSubAdaptor.java
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/JedisSentinelPool.java

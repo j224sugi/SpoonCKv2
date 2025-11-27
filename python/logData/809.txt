@@ -1,0 +1,4 @@
+febc027dd73c2f017bd6cb4c94f10d733451a667
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/collections/SetFromList.java
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/BinaryJedis.java
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/Jedis.java

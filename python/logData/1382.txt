@@ -1,0 +1,4 @@
+4a7697911d68a53e1a7f2e1c8d375707feb7dc88
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/Client.java
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/Jedis.java
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/ZParams.java

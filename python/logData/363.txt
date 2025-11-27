@@ -1,0 +1,12 @@
+4d1de185e37894ba1b310e180f0bf473267ef9df
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/CommandObjects.java
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/Jedis.java
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/MultiNodePipelineBase.java
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/Pipeline.java
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/Protocol.java
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/TransactionBase.java
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/UnifiedJedis.java
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/commands/SetBinaryCommands.java
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/commands/SetCommands.java
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/commands/SetPipelineBinaryCommands.java
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/commands/SetPipelineCommands.java

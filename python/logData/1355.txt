@@ -1,0 +1,5 @@
+7c680634a3af01b42884c129a89f7e32973bee6f
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/Connection.java
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/Jedis.java
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/JedisPubSub.java
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/Protocol.java

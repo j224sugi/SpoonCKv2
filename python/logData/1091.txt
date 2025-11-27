@@ -1,0 +1,4 @@
+dde278152f391238fb12bacbdd5ed609a06e717f
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/Client.java
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/Jedis.java
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/Protocol.java

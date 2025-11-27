@@ -1,0 +1,2 @@
+99e7c7768573e7d1030d485128c006b6373d672a
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/resps/Tuple.java

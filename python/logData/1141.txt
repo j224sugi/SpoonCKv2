@@ -1,0 +1,4 @@
+f9e818c92b9bd60d324f2711310d85a5104a58f2
+C:\Users\syuuj\gitProject\jedis\45be143e23553395f7ee7f26fb86f77f39300689
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/BuilderFactory.java
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/Pipeline.java

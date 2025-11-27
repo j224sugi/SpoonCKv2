@@ -1,0 +1,6 @@
+8f9763a7e9f61d1cb92ffb0571c3de6fca356eff
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/BinaryJedis.java
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/Jedis.java
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/JedisPool.java
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/JedisShardInfo.java
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/util/Pool.java

@@ -1,0 +1,8 @@
+5192937106dd3825bae0ec73c984fff95fd0a3eb
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/Connection.java
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/Jedis.java
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/Protocol.java
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/args/ClientAttributeOption.java
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/commands/ClientBinaryCommands.java
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/commands/ClientCommands.java
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/util/JedisMetaInfo.java

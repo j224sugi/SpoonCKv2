@@ -1,0 +1,3 @@
+d9d039d06087c19c68aa8c0e64bc902d150260d2
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/BinaryJedis.java
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/MultiKeyBinaryCommands.java

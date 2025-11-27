@@ -1,0 +1,9 @@
+57d2e2ea0515b0c0cae34ebf6003302e7117d357
+C:\Users\syuuj\gitProject\jedis\a170b9f0d2282f9fc52f3fada4b99eb0815f33c9
+C:\Users\syuuj\gitProject\jedis\1873d55c2c0bb6b15a8d9f71ef2455d86a3e6978
+C:\Users\syuuj\gitProject\jedis\8a33ab6e9a8fd470dfa646718d14a73b5d11ff06
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/BinaryJedisPubSub.java
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/BinaryJedisPubSubAdaptor.java
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/JedisPubSub.java
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/JedisPubSubAdaptor.java
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/JedisSentinelPool.java

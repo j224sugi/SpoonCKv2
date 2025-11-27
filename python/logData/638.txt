@@ -1,0 +1,4 @@
+10b61f097487200dbc4f3d08b9834054801fd6f0
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/BinaryClient.java
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/BitOP.java
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/Protocol.java

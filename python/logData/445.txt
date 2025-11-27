@@ -1,0 +1,7 @@
+d9c5e0aef93daad59fc27d0e194fcf0d2f293c35
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/BinaryJedis.java
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/DefaultJedisSocketFactory.java
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/Jedis.java
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/JedisFactory.java
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/JedisPool.java
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/JedisSocketFactory.java

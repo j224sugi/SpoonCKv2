@@ -1,0 +1,6 @@
+3c86ebcd362c49868a936c230fc0cc0a5837252e
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/BinaryClient.java
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/BinaryJedis.java
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/Client.java
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/Jedis.java
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/Protocol.java

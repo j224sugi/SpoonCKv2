@@ -1,0 +1,6 @@
+773331ebc3f0557af95e36e6b39d18dad37e22d2
+C:\Users\syuuj\gitProject\jedis\8432013a6f114e01f393a9d2a06edcafe3f5d3a4
+C:\Users\syuuj\gitProject\jedis\63b9d4ed0ecd3e01d0d73a49cadd45d82c56c48a
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/JedisFactory.java
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/JedisPool.java
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/JedisShardInfo.java

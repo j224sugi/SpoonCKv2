@@ -1,0 +1,11 @@
+334314d3c5c04ef86b7d3d434c4a3b7503288da0
+C:\Users\syuuj\gitProject\jedis\c2cf79c97273470c76a493d8e53aae6b0962b5ad
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/BinaryClient.java
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/BinaryRedisPipeline.java
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/JedisClusterCommand.java
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/MultiKeyBinaryRedisPipeline.java
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/MultiKeyCommandsPipeline.java
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/MultiKeyPipelineBase.java
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/Pipeline.java
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/PipelineBase.java
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/RedisPipeline.java

@@ -1,0 +1,11 @@
+6ed1441ca4c5de7e66648edfeafa16854707482c
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/BinaryJedis.java
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/Jedis.java
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/ScanParams.java
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/ZParams.java
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/commands/BinaryJedisClusterCommands.java
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/commands/BinaryJedisCommands.java
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/commands/JedisClusterCommands.java
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/commands/JedisCommands.java
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/commands/MultiKeyCommands.java
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/util/JedisClusterCRC16.java

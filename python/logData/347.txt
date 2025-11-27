@@ -1,0 +1,12 @@
+195d59e482fa15ad11e7675487fd0dcde6261147
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/CommandObjects.java
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/Jedis.java
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/MultiNodePipelineBase.java
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/Pipeline.java
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/Protocol.java
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/TransactionBase.java
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/UnifiedJedis.java
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/commands/ScriptingKeyBinaryCommands.java
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/commands/ScriptingKeyCommands.java
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/commands/ScriptingKeyPipelineBinaryCommands.java
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/commands/ScriptingKeyPipelineCommands.java

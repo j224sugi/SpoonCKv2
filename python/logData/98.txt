@@ -1,0 +1,2 @@
+56ef26aed653aefad4bcb93f439b5b1c61f11bcc
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/PipeliningBase.java

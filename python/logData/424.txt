@@ -1,0 +1,5 @@
+7b82418fa5ee09c09fbfe5fcdb837695804c2c8a
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/BinaryClient.java
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/Client.java
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/Protocol.java
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/ScanParams.java

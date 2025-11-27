@@ -1,0 +1,3 @@
+4daa722546c352a1923343c986970117d8eafbea
+C:\Users\syuuj\gitProject\jedis\65d47fc8f24ad3f5a560a942067c0fff06e1dc77
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/Connection.java

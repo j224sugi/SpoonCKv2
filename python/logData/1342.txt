@@ -1,0 +1,5 @@
+4a1d9928b58e61abc73612c883ea41c6eff32175
+C:\Users\syuuj\gitProject\jedis\224555afd2c57ce49c62bfe8ef2bb44245f4aaa0
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/Jedis.java
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/JedisPool.java
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/ShardedJedis.java

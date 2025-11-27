@@ -1,0 +1,5 @@
+7b9ae2f097b25a81a92f02b90e7d86356dc9673a
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/MultiNodePipelineBase.java
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/Pipeline.java
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/TransactionBase.java
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/search/RediSearchPipelineCommands.java

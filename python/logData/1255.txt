@@ -1,0 +1,6 @@
+dac1d259c09b8d118af6f92e1031e1d96d60772a
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/BinaryJedis.java
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/BinaryTransaction.java
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/Connection.java
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/Jedis.java
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/Transaction.java

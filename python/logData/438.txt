@@ -1,0 +1,5 @@
+ec49cd73608987ac787b30d60a0b292f75f7023d
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/JedisClusterCommand.java
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/JedisSlotBasedConnectionHandler.java
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/exceptions/JedisClusterMaxAttemptsException.java
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/exceptions/JedisNoReachableClusterNodeException.java

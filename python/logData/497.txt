@@ -1,0 +1,12 @@
+71a86d44192f43a1b36945cf90ec2a7158249cc8
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/BinaryJedisCluster.java
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/JedisCluster.java
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/JedisClusterConnectionHandler.java
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/JedisClusterInfoCache.java
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/JedisPool.java
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/JedisPoolAbstract.java
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/JedisPoolConfig.java
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/JedisSentinelPool.java
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/JedisSlotBasedConnectionHandler.java
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/ShardedJedisPool.java
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/util/Pool.java

@@ -1,0 +1,2 @@
+650a9700ddfd586e320f67ef300bb841cef22b36
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/params/ClientKillParams.java

@@ -1,0 +1,3 @@
+33b43cffa05eefb7e81a757e6a97eb51a8371824
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/PipeliningBase.java
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/commands/SetPipelineCommands.java

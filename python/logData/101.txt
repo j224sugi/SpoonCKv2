@@ -1,0 +1,4 @@
+23943800fbc47bcadbc6d7f17c4b32d442a637fb
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/Jedis.java
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/commands/ClientCommands.java
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/resps/TrackingInfo.java

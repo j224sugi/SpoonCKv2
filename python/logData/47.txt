@@ -1,0 +1,2 @@
+74795cb3229f6d10fabed4ad3aee9ed902e98773
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/resps/AccessControlLogEntry.java

@@ -1,0 +1,7 @@
+87d451c24cb0c03820d9d5999924cf0b1a2b2403
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/DefaultJedisClientConfig.java
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/DefaultJedisSocketFactory.java
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/JedisClientConfig.java
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/JedisPooled.java
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/SslOptions.java
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/SslVerifyMode.java

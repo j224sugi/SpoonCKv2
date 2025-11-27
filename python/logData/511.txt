@@ -1,0 +1,2 @@
+8c4edeeac5a29679fd5f2674ad4812bec9a91f3d
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/JedisClusterConnectionHandler.java

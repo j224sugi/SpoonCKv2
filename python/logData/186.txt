@@ -1,0 +1,16 @@
+8a5740d6cd64d5dc4c2c9b77420dc5fb736f2044
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/BuilderFactory.java
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/ClusterCommandObjects.java
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/CommandObjects.java
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/Jedis.java
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/MultiNodePipelineBase.java
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/Pipeline.java
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/Protocol.java
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/ShardedCommandObjects.java
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/TransactionBase.java
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/UnifiedJedis.java
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/commands/SampleBinaryKeyedCommands.java
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/commands/SampleBinaryKeyedPipelineCommands.java
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/commands/SampleKeyedCommands.java
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/commands/SampleKeyedPipelineCommands.java
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/commands/ServerCommands.java

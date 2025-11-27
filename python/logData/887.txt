@@ -1,0 +1,6 @@
+9ded028a73f13ad02d6e7052dde0c7112a5a1c5e
+C:\Users\syuuj\gitProject\jedis\7fad9fb1aaac58d9e95852f4a24cd694ed3c2e92
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/BasicCommands.java
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/BinaryClient.java
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/BinaryJedis.java
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/JedisCluster.java

@@ -1,0 +1,3 @@
+aed824c94cf9bc23da96b15b1d65bc6f1a5eff15
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/Protocol.java
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/util/RedisOutputStream.java

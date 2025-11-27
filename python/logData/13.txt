@@ -1,0 +1,13 @@
+303ed1095d807c13d4fcfe10bef5d118ce2063bf
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/MultiClusterClientConfig.java
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/MultiDbClient.java
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/builders/MultiDbClientBuilder.java
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/mcf/CircuitBreakerCommandExecutor.java
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/mcf/CircuitBreakerFailoverBase.java
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/mcf/CircuitBreakerFailoverConnectionProvider.java
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/mcf/CircuitBreakerThresholdsAdapter.java
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/mcf/ClusterSwitchEventArgs.java
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/mcf/EchoStrategy.java
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/mcf/HealthCheckStrategy.java
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/mcf/LagAwareStrategy.java
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/mcf/MultiClusterPooledConnectionProvider.java

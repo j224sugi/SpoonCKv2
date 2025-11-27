@@ -1,0 +1,6 @@
+10b195f210769a0dca7826d06dafe75f6b99de41
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/Jedis.java
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/JedisPool.java
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/JedisPoolAbstract.java
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/JedisSentinelPool.java
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/util/Pool.java

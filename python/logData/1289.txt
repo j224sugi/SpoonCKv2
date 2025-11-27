@@ -1,0 +1,6 @@
+a1815f38814ba7b1207d0034045093ff8251ea70
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/BinaryShardedJedis.java
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/ShardedJedis.java
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/ShardedJedisPool.java
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/util/ShardInfo.java
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/util/Sharded.java

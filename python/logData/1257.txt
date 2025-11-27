@@ -1,0 +1,3 @@
+9dd23cec819bb7b9cba34a2c57ecc1ab653dccfc
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/Connection.java
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/Protocol.java

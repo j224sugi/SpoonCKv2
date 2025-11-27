@@ -1,0 +1,4 @@
+82f286b4d1441cf15e32cc629c66b5c9caa0f286
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/ReliableTransaction.java
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/Transaction.java
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/TransactionBase.java

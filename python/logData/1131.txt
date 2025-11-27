@@ -1,0 +1,7 @@
+4f9ddb3b5f1da4c4f60b0c07ba0f39e1c5ba8c6e
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/BasicRedisPipeline.java
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/BinaryRedisPipeline.java
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/MultiKeyBinaryRedisPipeline.java
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/Pipeline.java
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/RedisPipeline.java
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/ShardedJedisPipeline.java

@@ -1,0 +1,7 @@
+e113b9ce3b1a3f51c2407cd237a849227434cf98
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/CommandObjects.java
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/JedisSentinelPool.java
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/graph/GraphCommandObjects.java
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/mcf/CircuitBreakerFailoverBase.java
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/providers/MultiClusterPooledConnectionProvider.java
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/providers/SentineledConnectionProvider.java

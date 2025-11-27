@@ -1,0 +1,6 @@
+5a70626c81fc22770e8e9364068b308121998e03
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/ClusterPipeline.java
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/DefaultJedisSocketFactory.java
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/JedisCluster.java
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/JedisClusterInfoCache.java
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/providers/ClusterConnectionProvider.java

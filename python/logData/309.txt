@@ -1,0 +1,2 @@
+2b7dd63cc5bac3b64cf06ffd677e07bd806b40a1
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/search/Schema.java

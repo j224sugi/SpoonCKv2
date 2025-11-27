@@ -1,0 +1,5 @@
+b2fcbed66f279d103ab3f4ad1684f18d706f0be6
+C:\Users\syuuj\gitProject\jedis\f7789213df7f68700ac91f535553a031469de949
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/BinaryClient.java
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/Client.java
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/Jedis.java

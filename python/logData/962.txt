@@ -1,0 +1,3 @@
+3b31ae708c003e77e4027507d9c3116c27d8d04d
+C:\Users\syuuj\gitProject\jedis\d7cd3a0af671b0fcf30b7cd4819fa9026f8d92f8
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/JedisCluster.java

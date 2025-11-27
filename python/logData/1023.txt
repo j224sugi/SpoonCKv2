@@ -1,0 +1,2 @@
+e1f50b5fae9288a8327e8a9238481eee9405dfc6
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/ScanResult.java

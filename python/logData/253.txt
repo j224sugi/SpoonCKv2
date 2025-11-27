@@ -1,0 +1,2 @@
+c4988b2b98ae5baa54475187f6afa54ad4214887
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/JedisPooled.java

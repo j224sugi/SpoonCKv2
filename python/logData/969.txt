@@ -1,0 +1,6 @@
+5af952a676cbbd961c31e038153ce6a442aedd0c
+C:\Users\syuuj\gitProject\jedis\5939d5bfdf30b361083692b8707819b880048663
+C:\Users\syuuj\gitProject\jedis\15ab93494562b712248190b2da78446fd5d3f758
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/JedisClusterCommand.java
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/JedisClusterConnectionHandler.java
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/JedisClusterInfoCache.java

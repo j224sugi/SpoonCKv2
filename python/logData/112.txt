@@ -1,0 +1,2 @@
+be088e30c0acf35b79c437bb0ef98f90188e8392
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/search/aggr/Reducer.java

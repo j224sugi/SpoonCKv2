@@ -1,0 +1,4 @@
+38753dc24eb22447611692d7d30d943afb21451d
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/BinaryJedis.java
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/exceptions/InvalidURIException.java
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/util/JedisURIHelper.java

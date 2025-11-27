@@ -1,0 +1,4 @@
+baab2225f650010bb7eea7b0f0e4eac7327a1a25
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/ShardedJedis.java
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/util/ShardInfo.java
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/util/Sharded.java

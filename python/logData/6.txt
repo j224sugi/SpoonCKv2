@@ -1,0 +1,11 @@
+dea46c5c6f7308172845f8340c52a75403b23eb3
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/CommandArguments.java
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/CommandFlagsRegistry.java
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/StaticCommandFlagsRegistry.java
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/StaticCommandFlagsRegistryInitializer.java
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/UnifiedJedis.java
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/builders/ClusterClientBuilder.java
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/executors/ClusterCommandExecutor.java
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/util/JedisByteHashMap.java
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/util/JedisByteMap.java
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/util/SafeEncoder.java

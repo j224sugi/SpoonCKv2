@@ -1,0 +1,9 @@
+e7582644b1ce457f09300bdecbf7fe08a47daa55
+C:\Users\syuuj\gitProject\jedis\b013a74c44b526ba9f824cc7eb2087714d9b6eaf
+C:\Users\syuuj\gitProject\jedis\d3362da12c774be493b63c9b0584eb29e6ec0a50
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/BinaryJedis.java
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/BinaryJedisCommands.java
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/BinaryShardedJedis.java
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/Jedis.java
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/JedisCommands.java
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/ShardedJedis.java

@@ -1,0 +1,3 @@
+0f17edd977d58bf85f3e3f7489c636d5cff8b4a2
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/BinaryJedisCommands.java
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/BinaryShardedJedis.java

@@ -1,0 +1,4 @@
+e0d762e9d804bc5fec8e1120f65e4ed8421b9e3f
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/Jedis.java
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/Module.java
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/commands/ModuleCommands.java

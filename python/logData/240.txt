@@ -1,0 +1,5 @@
+13321d22058e71cf2d440a1c724cd3e162f71e07
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/Jedis.java
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/Protocol.java
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/commands/ModuleCommands.java
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/params/ModuleLoadExParams.java

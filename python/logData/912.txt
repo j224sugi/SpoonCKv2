@@ -1,0 +1,2 @@
+161e50917802b260dc38a830494524645e59d5bc
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/Connection.java

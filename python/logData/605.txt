@@ -1,0 +1,3 @@
+cf31202ff193a454f4f47efca281f4fbb72a45c8
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/JedisClusterCommand.java
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/util/JedisClusterCRC16.java

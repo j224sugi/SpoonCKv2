@@ -1,0 +1,6 @@
+d6c45ddbb89d0b708fff5abf3b7da13f4849257a
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/DefaultJedisSocketFactory.java
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/commands/StreamCommands.java
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/commands/StreamPipelineCommands.java
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/params/ClientKillParams.java
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/util/Pool.java

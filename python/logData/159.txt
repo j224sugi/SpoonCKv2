@@ -1,0 +1,11 @@
+ef21a05da8d84fea480e662f395d240c4f543de8
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/search/FTSearchParams.java
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/search/FieldName.java
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/search/Query.java
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/search/SearchProtocol.java
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/search/aggr/AggregationBuilder.java
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/search/aggr/Group.java
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/search/aggr/Limit.java
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/search/aggr/Reducer.java
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/search/aggr/Reducers.java
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/util/LazyRawable.java

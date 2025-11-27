@@ -1,0 +1,3 @@
+ba63b5d02459c38de3c42e63d866031f8a156122
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/JedisPool.java
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/JedisPooled.java

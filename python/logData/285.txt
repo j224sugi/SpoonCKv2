@@ -1,0 +1,16 @@
+2ec720f7b09f79431b286dae698c60c62574fe29
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/CommandObjects.java
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/MultiNodePipelineBase.java
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/Pipeline.java
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/TransactionBase.java
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/UnifiedJedis.java
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/timeseries/AggregationType.java
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/timeseries/RedisTimeSeriesCommands.java
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/timeseries/RedisTimeSeriesPipelineCommands.java
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/timeseries/TSAlterParams.java
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/timeseries/TSCreateParams.java
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/timeseries/TSGetParams.java
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/timeseries/TSMGetParams.java
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/timeseries/TSMRangeParams.java
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/timeseries/TSRangeParams.java
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/timeseries/TimeSeriesProtocol.java

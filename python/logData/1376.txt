@@ -1,0 +1,3 @@
+0453ffcd1fc931681657525f7179bea98263ca88
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/Client.java
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/Jedis.java

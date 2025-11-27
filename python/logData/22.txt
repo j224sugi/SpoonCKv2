@@ -1,0 +1,3 @@
+a61a59d2bd0cfa5cbe88da9520c201403156bc07
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/search/Schema.java
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/search/schemafields/VectorField.java

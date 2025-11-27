@@ -1,0 +1,5 @@
+693809ec4b94dea3f7e7f0ca0fe121a7892b5c55
+C:\Users\syuuj\gitProject\jedis\1da7591c04c375e91267f53f57c9ed05a0a3fbb1
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/Jedis.java
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/Protocol.java
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/commands/ClusterCommands.java

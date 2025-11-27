@@ -1,0 +1,17 @@
+C:\Users\syuuj\gitProject\jedis\src\main\java\redis\clients\jedis\Client.java
+C:\Users\syuuj\gitProject\jedis\src\main\java\redis\clients\jedis\Connection.java
+C:\Users\syuuj\gitProject\jedis\src\main\java\redis\clients\jedis\Jedis.java
+C:\Users\syuuj\gitProject\jedis\src\main\java\redis\clients\jedis\JedisException.java
+C:\Users\syuuj\gitProject\jedis\src\main\java\redis\clients\jedis\JedisMonitor.java
+C:\Users\syuuj\gitProject\jedis\src\main\java\redis\clients\jedis\JedisPipeline.java
+C:\Users\syuuj\gitProject\jedis\src\main\java\redis\clients\jedis\JedisPool.java
+C:\Users\syuuj\gitProject\jedis\src\main\java\redis\clients\jedis\JedisPubSub.java
+C:\Users\syuuj\gitProject\jedis\src\main\java\redis\clients\jedis\Protocol.java
+C:\Users\syuuj\gitProject\jedis\src\main\java\redis\clients\jedis\SortingParams.java
+C:\Users\syuuj\gitProject\jedis\src\main\java\redis\clients\jedis\Transaction.java
+C:\Users\syuuj\gitProject\jedis\src\main\java\redis\clients\jedis\TransactionBlock.java
+C:\Users\syuuj\gitProject\jedis\src\main\java\redis\clients\jedis\Tuple.java
+C:\Users\syuuj\gitProject\jedis\src\main\java\redis\clients\jedis\ZParams.java
+C:\Users\syuuj\gitProject\jedis\src\main\java\redis\clients\util\FixedResourcePool.java
+C:\Users\syuuj\gitProject\jedis\src\main\java\redis\clients\util\RedisInputStream.java
+C:\Users\syuuj\gitProject\jedis\src\main\java\redis\clients\util\RedisOutputStream.java

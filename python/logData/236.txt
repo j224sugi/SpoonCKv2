@@ -1,0 +1,3 @@
+0cf061ca34a39283f0a64269724a0f4ad708a6ff
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/JedisSentineled.java
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/providers/SentineledConnectionProvider.java

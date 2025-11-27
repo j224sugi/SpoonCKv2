@@ -1,0 +1,2 @@
+b145a83478194f4be3cd26fb0fe40caedf9255d4
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/BuilderFactory.java

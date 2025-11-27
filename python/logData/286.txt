@@ -1,0 +1,4 @@
+e92df8220597e8b05175ae9ea9d7452b9d2a8a6d
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/search/Query.java
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/search/SearchProtocol.java
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/search/aggr/AggregationBuilder.java

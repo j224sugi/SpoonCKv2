@@ -1,0 +1,6 @@
+59f7063b2c5a0c52285f191acb1fd7448eea0fbb
+C:\Users\syuuj\gitProject\jedis\ed20894c951a0d8f46f6baf595bd9b0fa1c1a562
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/Connection.java
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/Jedis.java
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/ShardedJedis.java
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/Tuple.java

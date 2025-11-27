@@ -1,0 +1,3 @@
+d26ec0d09a3e426f30eef61fc314e2a160d8fa96
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/BinaryShardedJedis.java
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/ShardedJedisPipeline.java

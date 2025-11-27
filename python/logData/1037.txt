@@ -1,0 +1,6 @@
+756dc8deec98cd4cae6dfa512e9371cc5a9fe4a7
+C:\Users\syuuj\gitProject\jedis\e4de67048eac13e67f3fa683d7360a400d882f1f
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/JedisCluster.java
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/JedisClusterCommand.java
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/JedisClusterConnectionHandler.java
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/JedisSlotBasedConnectionHandler.java

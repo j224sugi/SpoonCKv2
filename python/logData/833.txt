@@ -1,0 +1,3 @@
+be70cbb8a339d1ab23842bb9551090c2fe2b3360
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/Connection.java
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/util/IOUtils.java

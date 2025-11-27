@@ -1,0 +1,6 @@
+8b60f2942211ddf4c832f77b15f6e4ad238f1ae3
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/ScanIteration.java
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/UnifiedJedis.java
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/search/FtSearchIteration.java
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/search/aggr/FtAggregateIteration.java
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/util/JedisCommandIterationBase.java

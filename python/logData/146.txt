@@ -1,0 +1,12 @@
+5792218e87ba196d6960497a9ea5e33e598ba53f
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/Jedis.java
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/JedisSentinelPool.java
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/commands/ClientBinaryCommands.java
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/commands/ClientCommands.java
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/commands/ClusterCommands.java
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/commands/StreamCommands.java
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/commands/StreamPipelineCommands.java
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/commands/StringCommands.java
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/graph/Record.java
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/graph/ResultSetBuilder.java
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/search/querybuilder/Node.java

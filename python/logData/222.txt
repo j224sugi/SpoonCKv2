@@ -1,0 +1,9 @@
+6d60ed6892666f857a90c0b5c1762ef4870ff45f
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/BroadcastResponse.java
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/CommandObjects.java
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/JedisBroadcast.java
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/JedisBroadcastAndRoundRobinConfig.java
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/UnifiedJedis.java
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/exceptions/JedisBroadcastException.java
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/executors/ClusterCommandExecutor.java
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/executors/CommandExecutor.java

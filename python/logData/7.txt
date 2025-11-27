@@ -1,0 +1,3 @@
+e7bf717b04bc8f3672242be44ee0a722f9856608
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/JedisSentinelPool.java
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/providers/SentineledConnectionProvider.java

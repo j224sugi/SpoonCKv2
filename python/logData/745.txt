@@ -1,0 +1,7 @@
+9c7dea7038cfb231680d98a09b1f66ab3d391a1b
+C:\Users\syuuj\gitProject\jedis\5765391b62ddd3ccceddef50fcb6e4e09338923f
+C:\Users\syuuj\gitProject\jedis\76b14b435624221c99d56279dbdddc6782139d50
+C:\Users\syuuj\gitProject\jedis\bbce085f895c62e6b01f53acab97e4e1ae64289f
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/JedisClusterInfoCache.java
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/util/ClusterNodeInformation.java
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/util/ClusterNodeInformationParser.java

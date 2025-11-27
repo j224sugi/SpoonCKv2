@@ -1,0 +1,5 @@
+3a486336fbc1e478ebd09a4465c31b0678bdd7b2
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/BinaryJedis.java
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/Pipeline.java
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/Response.java
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/util/SafeEncoder.java

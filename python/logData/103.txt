@@ -1,0 +1,7 @@
+25acc8d5b1519d1404fd04b094638a794a054caf
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/AbstractTransaction.java
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/MultiClusterClientConfig.java
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/TransactionBase.java
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/UnifiedJedis.java
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/mcf/MultiClusterPipeline.java
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/mcf/MultiClusterTransaction.java

@@ -1,0 +1,4 @@
+31513d401aed1d2227e9388f178c3eaa39524832
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/search/Query.java
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/search/Schema.java
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/search/SearchProtocol.java

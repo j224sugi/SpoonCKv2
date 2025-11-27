@@ -1,0 +1,15 @@
+d4a569cc2666643d8af6779241a39e7a7dca2941
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/Connection.java
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/ConnectionFactory.java
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/ConnectionPool.java
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/DefaultJedisClientConfig.java
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/JedisClientConfig.java
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/JedisClusterInfoCache.java
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/JedisPooled.java
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/JedisPubSubBase.java
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/JedisSafeAuthenticator.java
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/JedisShardedPubSubBase.java
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/authentication/AuthXEventListener.java
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/authentication/AuthXManager.java
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/authentication/JedisAuthenticationException.java
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/authentication/TokenCredentials.java

@@ -1,0 +1,2 @@
+0691b57325c14dac210a9bc52e74e77ff0d9722d
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/search/FTSearchParams.java

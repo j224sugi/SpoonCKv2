@@ -1,0 +1,3 @@
+5fa461e1a0c8c621281a916c4653576a53f2162a
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/search/Query.java
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/search/SearchProtocol.java

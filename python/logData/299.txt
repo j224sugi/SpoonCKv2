@@ -1,0 +1,8 @@
+0919b95a37481e38f0c3a56e4a47d89c0647e5dd
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/CommandObjects.java
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/MultiNodePipelineBase.java
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/Pipeline.java
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/TransactionBase.java
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/UnifiedJedis.java
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/timeseries/RedisTimeSeriesCommands.java
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/timeseries/RedisTimeSeriesPipelineCommands.java

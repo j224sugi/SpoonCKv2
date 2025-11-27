@@ -1,0 +1,5 @@
+d40b2f36b80db31a83b859c91ea3da08f3f50b01
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/Jedis.java
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/ScanParams.java
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/ScanResult.java
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/commands/MultiKeyCommands.java

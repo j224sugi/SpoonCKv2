@@ -1,0 +1,15 @@
+bad18b916bc9c30aa58edb4676c6d6c8f571ab63
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/JedisClusterInfoCache.java
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/MultiClusterClientConfig.java
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/UnifiedJedis.java
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/annots/Experimental.java
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/annots/Internal.java
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/annots/VisibleForTesting.java
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/executors/ClusterCommandExecutor.java
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/executors/RetryableCommandExecutor.java
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/mcf/CircuitBreakerCommandExecutor.java
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/mcf/CircuitBreakerFailoverBase.java
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/mcf/CircuitBreakerFailoverConnectionProvider.java
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/mcf/MultiClusterPipeline.java
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/mcf/MultiClusterTransaction.java
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/providers/MultiClusterPooledConnectionProvider.java

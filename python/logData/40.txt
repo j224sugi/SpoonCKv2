@@ -1,0 +1,6 @@
+cd9346ae0c826e8fe3b5be9c96736f97995b4dca
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/CommandObjects.java
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/UnifiedJedis.java
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/search/ProfilingInfo.java
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/search/RediSearchCommands.java
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/search/SearchBuilderFactory.java

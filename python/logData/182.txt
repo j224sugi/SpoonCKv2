@@ -1,0 +1,4 @@
+d91033e22a650f0fcc6b9d1f0e98ff718532bee1
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/BuilderFactory.java
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/Protocol.java
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/util/RedisInputStream.java

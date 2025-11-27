@@ -1,0 +1,4 @@
+ad26ea23ad8a211a6e5704b278121a7ea6a57a0a
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/JedisShardInfo.java
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/util/RedisInputStream.java
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/util/Sharded.java

@@ -1,0 +1,2 @@
+4ed997c423fa2f944d0a207764520ef08b638b7f
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/resps/StreamConsumerFullInfo.java

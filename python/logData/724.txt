@@ -1,0 +1,9 @@
+7dee4d5cd278b024e16a9461b7c3367b3be3647f
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/BinaryJedis.java
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/JedisSentinelPool.java
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/Response.java
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/Tuple.java
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/util/Hashing.java
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/util/JedisByteHashMap.java
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/util/RedisInputStream.java
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/util/RedisOutputStream.java

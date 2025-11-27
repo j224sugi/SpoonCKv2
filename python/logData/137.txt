@@ -1,0 +1,3 @@
+d023d2fce7ab6c0d3b8859acbb761cbe1002b186
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/exceptions/JedisBroadcastException.java
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/executors/ClusterCommandExecutor.java

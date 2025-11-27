@@ -1,0 +1,2 @@
+44d34a6ab8529301712d4707c9a27a1a310971af
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/JedisPubSubBase.java

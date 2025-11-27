@@ -1,0 +1,6 @@
+c8135e215a49c74847b14005c6e2b43e9462fd56
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/BuilderFactory.java
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/Protocol.java
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/params/XReadGroupParams.java
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/resps/StreamEntry.java
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/resps/StreamEntryBinary.java

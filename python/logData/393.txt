@@ -1,0 +1,3 @@
+f2fc01543b923fabcf7716b8938977dbdbd80af6
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/Protocol.java
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/util/SafeEncoder.java

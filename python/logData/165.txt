@@ -1,0 +1,6 @@
+967cceb7507d94f4b3bbc45ac0fb835114f80c07
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/MultiClusterClientConfig.java
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/UnifiedJedis.java
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/exceptions/JedisValidationException.java
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/executors/CircuitBreakerCommandExecutor.java
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/providers/MultiClusterPooledConnectionProvider.java

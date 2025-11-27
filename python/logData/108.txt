@@ -1,0 +1,3 @@
+65d431f549502364bacbc8c25c85e973278c437a
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/JedisPubSubBase.java
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/JedisShardedPubSubBase.java

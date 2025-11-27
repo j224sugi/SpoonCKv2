@@ -1,0 +1,9 @@
+30fb98e6b5219cbe13d9e940f3f7d9c6e01ee4d9
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/BuilderFactory.java
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/CommandObjects.java
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/UnifiedJedis.java
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/timeseries/AggregationType.java
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/timeseries/RedisTimeSeriesCommands.java
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/timeseries/TSInfo.java
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/timeseries/TimeSeriesProtocol.java
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/util/DoublePrecision.java

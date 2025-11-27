@@ -96,7 +96,5 @@ for AnalyzeSet in Folders:
         editClass(tmpSpoonClassResult,tmpCKClassResult,outPutFolder,i)
         editMethod(tmpSpoonMethodResult,tmpCKMethodResult,outPutFolder,i)
         i=i+1
-        if i>5:
-            break
 
         #プロジェクトのissuueとlogがしっかり書かれているかしっかりと見る

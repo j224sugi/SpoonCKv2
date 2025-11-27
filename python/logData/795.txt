@@ -1,0 +1,4 @@
+50822a68188c706029fa46b3efb732565fea7e2b
+C:\Users\syuuj\gitProject\jedis\df59a7500aead11101a111180b971731ee16f024
+C:\Users\syuuj\gitProject\jedis\98bfe69c50148115767ac4e3f1d7368babc47dc3
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/BinaryJedis.java

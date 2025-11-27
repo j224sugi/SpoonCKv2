@@ -21,3 +21,6 @@ jarファイルあり　JavaParser:エラー数⇒201   Spoon:エラー数⇒2�
 pythonのフォルダーで.venv\Scripts\activateを実行する
 pip install -r requirement.txtで仮想環境にpandasをインストール
 仮想環境の状態でpython SpoonCk.py [gitプロジェクト]　[出力フォルダー]　実行する
+deactivateで仮想環境終了
+
+interfaceの変更だと出力なし

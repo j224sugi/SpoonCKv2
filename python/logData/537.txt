@@ -1,0 +1,2 @@
+d7aba13a8b65e66dedc01c51b73e3794cbe68a62
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/util/SafeEncoder.java

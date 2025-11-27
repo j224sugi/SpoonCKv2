@@ -1,0 +1,4 @@
+3824459c4d3f76abf16d5ee23b7d1376b5e80fa9
+C:\Users\syuuj\gitProject\jedis\81c8308aa4141297a2fc20539e9792c10061cbac
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/JedisCluster.java
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/JedisClusterCommand.java

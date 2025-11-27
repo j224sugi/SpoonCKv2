@@ -1,0 +1,11 @@
+ae76d4061e3d48876d62b0973ea4ec928eeeaffc
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/commands/RedisModuleCommands.java
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/commands/RedisModulePipelineCommands.java
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/json/RedisJsonCommands.java
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/json/RedisJsonPipelineCommands.java
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/json/commands/RedisJsonCommands.java
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/json/commands/RedisJsonPipelineCommands.java
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/json/commands/RedisJsonV1Commands.java
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/json/commands/RedisJsonV1PipelineCommands.java
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/json/commands/RedisJsonV2Commands.java
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/json/commands/RedisJsonV2PipelineCommands.java

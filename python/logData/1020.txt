@@ -1,0 +1,4 @@
+28fdd60f987d926537a3556d61d2251751d5b4be
+C:\Users\syuuj\gitProject\jedis\12ab600dee7226af2116b99663e000199c837981
+C:\Users\syuuj\gitProject\jedis\62b98a3e633434e4f635d4ef1ca0076d4404df42
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/util/Pool.java

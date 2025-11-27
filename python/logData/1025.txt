@@ -1,0 +1,4 @@
+0cd32a61037eaaef58b7f6a64b38b0f408b5505b
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/BinaryJedis.java
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/ScanParams.java
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/ScanResult.java

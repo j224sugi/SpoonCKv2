@@ -1,0 +1,13 @@
+ec0e4d05da3e9b01dc6ede84be5ff13d200a5a24
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/search/FTSearchParams.java
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/search/Query.java
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/search/Schema.java
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/search/SearchProtocol.java
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/search/aggr/AggregationBuilder.java
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/search/querybuilder/QueryNode.java
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/search/schemafields/GeoField.java
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/search/schemafields/GeoShapeField.java
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/search/schemafields/NumericField.java
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/search/schemafields/TagField.java
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/search/schemafields/TextField.java
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/search/schemafields/VectorField.java

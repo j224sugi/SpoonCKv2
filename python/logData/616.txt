@@ -1,0 +1,2 @@
+78d4d5eb9371bcd083babfd9c6d298b05e493819
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/exceptions/JedisClusterCrossSlotException.java

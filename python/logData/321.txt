@@ -1,0 +1,8 @@
+35904380a3388721bf27980171e6446b5181c3e8
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/BuilderFactory.java
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/Jedis.java
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/Protocol.java
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/commands/CommandCommands.java
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/params/CommandListFilterByParams.java
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/resps/CommandDocument.java
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/resps/CommandInfo.java

@@ -1,0 +1,4 @@
+2274416b771c161f3f659ca70633a90376f3c42c
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/Connection.java
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/DefaultJedisSocketFactory.java
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/providers/MultiClusterPooledConnectionProvider.java

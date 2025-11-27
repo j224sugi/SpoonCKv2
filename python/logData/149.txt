@@ -1,0 +1,2 @@
+c33bdf7674ebc9693f7a349ff3d087ffef4fa06f
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/MultiNodePipelineBase.java

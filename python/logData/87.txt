@@ -1,0 +1,3 @@
+4a85d11ca0c3d08a748d76585d63624280ecc1d1
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/MultiClusterClientConfig.java
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/providers/MultiClusterPooledConnectionProvider.java

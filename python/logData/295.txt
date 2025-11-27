@@ -1,0 +1,12 @@
+87320a9850ca3db0b402f2855df6802e330b9305
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/BuilderFactory.java
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/CommandObjects.java
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/MultiNodePipelineBase.java
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/Pipeline.java
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/TransactionBase.java
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/UnifiedJedis.java
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/bloom/BloomFilterCommands.java
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/bloom/BloomFilterPipelineCommands.java
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/bloom/CuckooFilterCommands.java
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/bloom/CuckooFilterPipelineCommands.java
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/bloom/RedisBloomProtocol.java

@@ -1,0 +1,2 @@
+c62a6762be31cdb0420c5c579621476be5cb0404
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/BinaryJedis.java

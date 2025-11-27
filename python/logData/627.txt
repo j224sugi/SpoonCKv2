@@ -1,0 +1,2 @@
+1e7c24c9f59e99a99ecd7006b25be162beaa7006
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/BinaryShardedJedis.java

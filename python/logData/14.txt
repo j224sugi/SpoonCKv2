@@ -1,0 +1,14 @@
+f8de2fe5f280e16295deb44347887be48ad19861
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/CommandObjects.java
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/JedisCluster.java
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/JedisPooled.java
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/JedisSentineled.java
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/MultiClusterClientConfig.java
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/UnifiedJedis.java
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/builders/AbstractClientBuilder.java
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/builders/ClusterClientBuilder.java
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/builders/SentinelClientBuilder.java
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/builders/StandaloneClientBuilder.java
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/mcf/CircuitBreakerFailoverBase.java
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/providers/MultiClusterPooledConnectionProvider.java
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/search/SearchProtocol.java

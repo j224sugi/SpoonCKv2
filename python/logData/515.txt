@@ -1,0 +1,4 @@
+bd4910c044c2cf00c9146ac7afee3026d5226ac4
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/commands/AdvancedBinaryJedisCommands.java
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/commands/AdvancedJedisCommands.java
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/commands/Commands.java

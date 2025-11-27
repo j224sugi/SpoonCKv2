@@ -1,0 +1,3 @@
+46c658e4720dcc0c3bee6833eec548e10d636c00
+C:\Users\syuuj\gitProject\jedis\bba916a5682a3cf7027c11d5bbfeddb3af83fbaf
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/PipelineBase.java

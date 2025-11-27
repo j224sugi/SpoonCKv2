@@ -1,0 +1,2 @@
+5c6b87bdec4c6171cdcad358b5aa29c5d423f297
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/providers/ClusterConnectionProvider.java

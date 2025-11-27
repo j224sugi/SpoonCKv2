@@ -1,0 +1,9 @@
+0e25cf65fb7058c69ecab9771e49e3a916a06057
+C:\Users\syuuj\gitProject\jedis\6f8d46ae4fa8360586257a1d3e4babec0f45ec75
+C:\Users\syuuj\gitProject\jedis\667eeaf8158bb292e7cfb3ce8a0b11a0bd1e66f9
+C:\Users\syuuj\gitProject\jedis\f3834e1a1b7e4d1f10529ce5f87c66efe092858f
+C:\Users\syuuj\gitProject\jedis\1782aaeeb17d872b18e1dc0f06c1dca9492969da
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/Client.java
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/ClusterCommands.java
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/Jedis.java
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/Protocol.java

@@ -1,0 +1,2 @@
+dfb1640f76549f23eccef946b3baa11bd86e2ea4
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/params/GeoSearchParam.java

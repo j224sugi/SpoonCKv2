@@ -1,0 +1,4 @@
+3a3b89a5740d2bfa5209a58fc00e4da489ec0d2e
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/Protocol.java
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/args/Rawable.java
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/commands/ProtocolCommand.java

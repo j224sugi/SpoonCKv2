@@ -1,0 +1,3 @@
+9df98e7ce9eb847aacb8761ace0903cf3561501d
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/search/schemafields/TagField.java
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/search/schemafields/TextField.java

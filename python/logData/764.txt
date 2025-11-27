@@ -1,0 +1,8 @@
+8747d28eaa4422269c2fcdfd50032249f1855b91
+C:\Users\syuuj\gitProject\jedis\1e5e10c3589b5b283fec4d299c945b45e31df77e
+C:\Users\syuuj\gitProject\jedis\a6427e8444bcedc85be23c70ebb832fbf7fbae97
+C:\Users\syuuj\gitProject\jedis\adb1f27a6400c094571843016491192144008c8a
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/commands/Commands.java
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/commands/ProtocolCommand.java
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/commands/SentinelCommands.java
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/util/Hashing.java

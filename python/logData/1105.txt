@@ -1,0 +1,3 @@
+39d81d8f1fe1b6afce24ad66366255b21a41900a
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/JedisSentinelPool.java
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/Protocol.java

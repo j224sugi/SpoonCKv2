@@ -1,0 +1,5 @@
+6590287e4ea1c595efa867fa17d3112dea622583
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/BinaryJedis.java
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/JedisPool.java
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/JedisShardInfo.java
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/util/JedisURIHelper.java

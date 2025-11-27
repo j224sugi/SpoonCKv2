@@ -1,0 +1,3 @@
+75d2ba751ba59c1cf5e13ddad84d4f0d3a82fb3e
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/JedisFactory.java
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/JedisSentinelPool.java

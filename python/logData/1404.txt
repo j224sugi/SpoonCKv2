@@ -1,0 +1,7 @@
+81cc2cec8e52b8fd814d5ddd0e4a277f6b08441b
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/Client.java
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/Connection.java
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/Jedis.java
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/Transaction.java
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/TransactionBlock.java
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/Tuple.java

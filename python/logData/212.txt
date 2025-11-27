@@ -1,0 +1,5 @@
+58f57616e852648306602b76777139a8f5e903a1
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/ScanRoundRobin.java
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/UnifiedJedis.java
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/search/FtSearchRoundRobin.java
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/util/JedisRoundRobinBase.java

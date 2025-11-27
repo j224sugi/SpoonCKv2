@@ -1,0 +1,2 @@
+8e21a6d30ed8f42e4be1ae64e61aab98f2988e08
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/params/BitPosParams.java

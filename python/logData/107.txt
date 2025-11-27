@@ -1,0 +1,7 @@
+6f3db461932fe6751175d779ed0133f9eea3f46f
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/BuilderFactory.java
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/Jedis.java
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/Protocol.java
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/args/LatencyEvent.java
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/commands/ServerCommands.java
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/resps/LatencyHistoryInfo.java

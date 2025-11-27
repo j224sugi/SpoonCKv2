@@ -1,0 +1,3 @@
+C:\Users\syuuj\gitProject\jedis\src\main\java\redis\clients\jedis\Client.java
+C:\Users\syuuj\gitProject\jedis\src\main\java\redis\clients\jedis\Jedis.java
+C:\Users\syuuj\gitProject\jedis\src\main\java\redis\clients\jedis\Protocol.java

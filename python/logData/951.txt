@@ -1,0 +1,5 @@
+582d00b5ca5688e21bb47aa7413f37622420b482
+C:\Users\syuuj\gitProject\jedis\f6aced860a7adebad77005c99d0292a07f0e1748
+C:\Users\syuuj\gitProject\jedis\babedd5be07f7f226ea8bcbbbd34141f7de84915
+C:\Users\syuuj\gitProject\jedis\0a094ff0b4327f2fdffdc5fe051d7903ac084a92
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/JedisCluster.java

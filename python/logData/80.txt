@@ -1,0 +1,4 @@
+811dca045e979b7ddb58176ca2c09636b1f38473
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/AbstractTransaction.java
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/ClusterPipeline.java
+C:\Users\syuuj\gitProject\jedis\src/main/java/redis/clients/jedis/Connection.java
