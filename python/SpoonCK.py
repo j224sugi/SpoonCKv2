@@ -86,7 +86,7 @@ for k in range(len(gitProjects)):
     ClassFlag=True
     MethodFlag=True
     projectFolder=gitProjects[k]
-    outPutFolder=outPutFolder[k]
+    outPutFolder=outPutFolders[k]
     if not os.path.isdir(outPutFolder):
         os.makedirs(outPutFolder)
 
@@ -120,6 +120,5 @@ for k in range(len(gitProjects)):
         editClass(tmpSpoonClassResult,tmpCKClassResult,outPutFolder,i)
         editMethod(tmpSpoonMethodResult,tmpCKMethodResult,outPutFolder,i)
         i=i+1
-        if i==1:
-            break
+
         #プロジェクトのissuueとlogがしっかり書かれているかしっかりと見る
