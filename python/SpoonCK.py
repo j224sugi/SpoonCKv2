@@ -60,13 +60,33 @@ def makeNewDir(file):
     
 #projectFolder=sys.argv[1]
 #outPutFolder=sys.argv[2]
-Folders=[["C:\\Users\\sugii syuji\\jsoup","C:\\Users\\sugii syuji\\protgitProjectMetrics\\jsoup"]]
+outPutFolders=[
+    "C:\\Users\\syuuj\\gitProjectResult\\jitwatch",
+    "C:\\Users\\syuuj\\gitProjectResult\\jsoup",
+    "C:\\Users\\syuuj\\gitProjectResult\\mockserver",
+    "C:\\Users\\syuuj\\gitProjectResult\\mybatis-3",
+    "C:\\Users\\syuuj\\gitProjectResult\\nanohttpd",
+    "C:\\Users\\syuuj\\gitProjectResult\\vert.x",
+    "C:\\Users\\syuuj\\gitProjectResult\\ysoserial",
+    "C:\\Users\\syuuj\\gitProjectResult\\zookeeper"
+    ]
+gitProjects=[
+    "C:\\Users\\syuuj\\gitProject\\jitwatch",
+    "C:\\Users\\syuuj\\gitProject\\jsoup",
+    "C:\\Users\\syuuj\\gitProject\\mockserver",
+    "C:\\Users\\syuuj\\gitProject\\mybatis-3",
+    "C:\\Users\\syuuj\\gitProject\\nanohttpd",
+    "C:\\Users\\syuuj\\gitProject\\vert.x",
+    "C:\\Users\\syuuj\\gitProject\\ysoserial",
+    "C:\\Users\\syuuj\\gitProject\\zookeeper"
+]
 
-for AnalyzeSet in Folders:
+k=0
+for k in range(len(gitProjects)):
     ClassFlag=True
     MethodFlag=True
-    projectFolder=AnalyzeSet[0]
-    outPutFolder=AnalyzeSet[1]
+    projectFolder=gitProjects[k]
+    outPutFolder=outPutFolder[k]
     if not os.path.isdir(outPutFolder):
         os.makedirs(outPutFolder)
 
@@ -100,5 +120,6 @@ for AnalyzeSet in Folders:
         editClass(tmpSpoonClassResult,tmpCKClassResult,outPutFolder,i)
         editMethod(tmpSpoonMethodResult,tmpCKMethodResult,outPutFolder,i)
         i=i+1
-
+        if i==1:
+            break
         #プロジェクトのissuueとlogがしっかり書かれているかしっかりと見る
