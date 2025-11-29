@@ -1,61 +1,43 @@
 file,class,method,variable,usage
-C:\Users\syuuj\gitProject\jedis\src\main\java\redis\clients\jedis\Protocol.java,redis.clients.jedis.Protocol,getBulkReply/1[java.io.InputStream],ret,2
-C:\Users\syuuj\gitProject\jedis\src\main\java\redis\clients\jedis\Protocol.java,redis.clients.jedis.Protocol,getBulkReply/1[java.io.InputStream],read,5
-C:\Users\syuuj\gitProject\jedis\src\main\java\redis\clients\jedis\Protocol.java,redis.clients.jedis.Protocol,getBulkReply/1[java.io.InputStream],len,2
-C:\Users\syuuj\gitProject\jedis\src\main\java\redis\clients\jedis\Protocol.java,redis.clients.jedis.Protocol,getBulkReply/1[java.io.InputStream],e,0
-C:\Users\syuuj\gitProject\jedis\src\main\java\redis\clients\jedis\Protocol.java,redis.clients.jedis.Protocol,getBulkReply/1[java.io.InputStream],is,5
-C:\Users\syuuj\gitProject\jedis\src\main\java\redis\clients\jedis\Protocol.java,redis.clients.jedis.Protocol,getMultiBulkReply/1[java.io.InputStream],ret,2
-C:\Users\syuuj\gitProject\jedis\src\main\java\redis\clients\jedis\Protocol.java,redis.clients.jedis.Protocol,getMultiBulkReply/1[java.io.InputStream],e,0
-C:\Users\syuuj\gitProject\jedis\src\main\java\redis\clients\jedis\Protocol.java,redis.clients.jedis.Protocol,getMultiBulkReply/1[java.io.InputStream],num,1
-C:\Users\syuuj\gitProject\jedis\src\main\java\redis\clients\jedis\Protocol.java,redis.clients.jedis.Protocol,getMultiBulkReply/1[java.io.InputStream],i,2
-C:\Users\syuuj\gitProject\jedis\src\main\java\redis\clients\jedis\Protocol.java,redis.clients.jedis.Protocol,getMultiBulkReply/1[java.io.InputStream],is,3
-C:\Users\syuuj\gitProject\jedis\src\main\java\redis\clients\jedis\Protocol.java,redis.clients.jedis.Protocol,getIntegerReply/1[java.io.InputStream],ret,2
-C:\Users\syuuj\gitProject\jedis\src\main\java\redis\clients\jedis\Protocol.java,redis.clients.jedis.Protocol,getIntegerReply/1[java.io.InputStream],e,0
-C:\Users\syuuj\gitProject\jedis\src\main\java\redis\clients\jedis\Protocol.java,redis.clients.jedis.Protocol,getIntegerReply/1[java.io.InputStream],num,1
-C:\Users\syuuj\gitProject\jedis\src\main\java\redis\clients\jedis\Protocol.java,redis.clients.jedis.Protocol,getIntegerReply/1[java.io.InputStream],is,2
-C:\Users\syuuj\gitProject\jedis\src\main\java\redis\clients\jedis\Protocol.java,redis.clients.jedis.Protocol,readLine/1[java.io.InputStream],b,5
-C:\Users\syuuj\gitProject\jedis\src\main\java\redis\clients\jedis\Protocol.java,redis.clients.jedis.Protocol,readLine/1[java.io.InputStream],is,2
-C:\Users\syuuj\gitProject\jedis\src\main\java\redis\clients\jedis\Protocol.java,redis.clients.jedis.Protocol,readLine/1[java.io.InputStream],sb,2
-C:\Users\syuuj\gitProject\jedis\src\main\java\redis\clients\jedis\Protocol.java,redis.clients.jedis.Protocol,"buildCommand/2[java.lang.String,java.lang.String[]]",args,2
-C:\Users\syuuj\gitProject\jedis\src\main\java\redis\clients\jedis\Protocol.java,redis.clients.jedis.Protocol,"buildCommand/2[java.lang.String,java.lang.String[]]",arg,2
-C:\Users\syuuj\gitProject\jedis\src\main\java\redis\clients\jedis\Protocol.java,redis.clients.jedis.Protocol,"buildCommand/2[java.lang.String,java.lang.String[]]",name,2
-C:\Users\syuuj\gitProject\jedis\src\main\java\redis\clients\jedis\Protocol.java,redis.clients.jedis.Protocol,"buildCommand/2[java.lang.String,java.lang.String[]]",builder,5
-C:\Users\syuuj\gitProject\jedis\src\main\java\redis\clients\jedis\Protocol.java,redis.clients.jedis.Protocol,getSingleLineReply/1[java.io.InputStream],ret,2
-C:\Users\syuuj\gitProject\jedis\src\main\java\redis\clients\jedis\Protocol.java,redis.clients.jedis.Protocol,getSingleLineReply/1[java.io.InputStream],e,0
-C:\Users\syuuj\gitProject\jedis\src\main\java\redis\clients\jedis\Protocol.java,redis.clients.jedis.Protocol,getSingleLineReply/1[java.io.InputStream],is,2
-C:\Users\syuuj\gitProject\jedis\src\test\java\redis\clients\jedis\tests\ClientTest.java,redis.clients.jedis.tests.ClientTest,setAndGet/0,value,1
-C:\Users\syuuj\gitProject\jedis\src\test\java\redis\clients\jedis\tests\ClientTest.java,redis.clients.jedis.tests.ClientTest,setAndGet/0,status,1
-C:\Users\syuuj\gitProject\jedis\src\test\java\redis\clients\jedis\tests\ClientTest.java,redis.clients.jedis.tests.ClientTest,ping/0,status,1
-C:\Users\syuuj\gitProject\jedis\src\main\java\redis\clients\jedis\Client.java,redis.clients.jedis.Client,ping/0,e,0
-C:\Users\syuuj\gitProject\jedis\src\main\java\redis\clients\jedis\Client.java,redis.clients.jedis.Client,ping/0,command,1
-C:\Users\syuuj\gitProject\jedis\src\main\java\redis\clients\jedis\Client.java,redis.clients.jedis.Client,setPort/1[int],port,2
-C:\Users\syuuj\gitProject\jedis\src\main\java\redis\clients\jedis\Client.java,redis.clients.jedis.Client,"set/2[java.lang.String,java.lang.String]",e,0
-C:\Users\syuuj\gitProject\jedis\src\main\java\redis\clients\jedis\Client.java,redis.clients.jedis.Client,"set/2[java.lang.String,java.lang.String]",value,1
-C:\Users\syuuj\gitProject\jedis\src\main\java\redis\clients\jedis\Client.java,redis.clients.jedis.Client,"set/2[java.lang.String,java.lang.String]",key,1
-C:\Users\syuuj\gitProject\jedis\src\main\java\redis\clients\jedis\Client.java,redis.clients.jedis.Client,"set/2[java.lang.String,java.lang.String]",command,1
-C:\Users\syuuj\gitProject\jedis\src\main\java\redis\clients\jedis\Client.java,redis.clients.jedis.Client,Client/1[java.lang.String],host,2
-C:\Users\syuuj\gitProject\jedis\src\main\java\redis\clients\jedis\Client.java,redis.clients.jedis.Client,"Client/2[java.lang.String,int]",port,2
-C:\Users\syuuj\gitProject\jedis\src\main\java\redis\clients\jedis\Client.java,redis.clients.jedis.Client,"Client/2[java.lang.String,int]",host,2
-C:\Users\syuuj\gitProject\jedis\src\main\java\redis\clients\jedis\Client.java,redis.clients.jedis.Client,setHost/1[java.lang.String],host,2
-C:\Users\syuuj\gitProject\jedis\src\main\java\redis\clients\jedis\Client.java,redis.clients.jedis.Client,get/1[java.lang.String],e,0
-C:\Users\syuuj\gitProject\jedis\src\main\java\redis\clients\jedis\Client.java,redis.clients.jedis.Client,get/1[java.lang.String],key,1
-C:\Users\syuuj\gitProject\jedis\src\main\java\redis\clients\jedis\Client.java,redis.clients.jedis.Client,get/1[java.lang.String],command,1
-C:\Users\syuuj\gitProject\jedis\src\test\java\redis\clients\jedis\tests\ProtocolTest.java,redis.clients.jedis.tests.ProtocolTest,nullBulkReply/0,protocol,1
-C:\Users\syuuj\gitProject\jedis\src\test\java\redis\clients\jedis\tests\ProtocolTest.java,redis.clients.jedis.tests.ProtocolTest,nullBulkReply/0,response,1
-C:\Users\syuuj\gitProject\jedis\src\test\java\redis\clients\jedis\tests\ProtocolTest.java,redis.clients.jedis.tests.ProtocolTest,nullBulkReply/0,is,1
-C:\Users\syuuj\gitProject\jedis\src\test\java\redis\clients\jedis\tests\ProtocolTest.java,redis.clients.jedis.tests.ProtocolTest,integerReply/0,protocol,1
-C:\Users\syuuj\gitProject\jedis\src\test\java\redis\clients\jedis\tests\ProtocolTest.java,redis.clients.jedis.tests.ProtocolTest,integerReply/0,response,1
-C:\Users\syuuj\gitProject\jedis\src\test\java\redis\clients\jedis\tests\ProtocolTest.java,redis.clients.jedis.tests.ProtocolTest,integerReply/0,is,1
-C:\Users\syuuj\gitProject\jedis\src\test\java\redis\clients\jedis\tests\ProtocolTest.java,redis.clients.jedis.tests.ProtocolTest,buildACommand/0,protocol,1
-C:\Users\syuuj\gitProject\jedis\src\test\java\redis\clients\jedis\tests\ProtocolTest.java,redis.clients.jedis.tests.ProtocolTest,buildACommand/0,command,1
-C:\Users\syuuj\gitProject\jedis\src\test\java\redis\clients\jedis\tests\ProtocolTest.java,redis.clients.jedis.tests.ProtocolTest,buildACommand/0,expectedCommand,1
-C:\Users\syuuj\gitProject\jedis\src\test\java\redis\clients\jedis\tests\ProtocolTest.java,redis.clients.jedis.tests.ProtocolTest,bulkReply/0,protocol,1
-C:\Users\syuuj\gitProject\jedis\src\test\java\redis\clients\jedis\tests\ProtocolTest.java,redis.clients.jedis.tests.ProtocolTest,bulkReply/0,response,1
-C:\Users\syuuj\gitProject\jedis\src\test\java\redis\clients\jedis\tests\ProtocolTest.java,redis.clients.jedis.tests.ProtocolTest,bulkReply/0,is,1
-C:\Users\syuuj\gitProject\jedis\src\test\java\redis\clients\jedis\tests\ProtocolTest.java,redis.clients.jedis.tests.ProtocolTest,multiBulkReply/0,protocol,1
-C:\Users\syuuj\gitProject\jedis\src\test\java\redis\clients\jedis\tests\ProtocolTest.java,redis.clients.jedis.tests.ProtocolTest,multiBulkReply/0,response,1
-C:\Users\syuuj\gitProject\jedis\src\test\java\redis\clients\jedis\tests\ProtocolTest.java,redis.clients.jedis.tests.ProtocolTest,multiBulkReply/0,expected,5
-C:\Users\syuuj\gitProject\jedis\src\test\java\redis\clients\jedis\tests\ProtocolTest.java,redis.clients.jedis.tests.ProtocolTest,multiBulkReply/0,is,1
-C:\Users\syuuj\gitProject\jedis\src\test\java\redis\clients\jedis\tests\ProtocolTest.java,redis.clients.jedis.tests.ProtocolTest,singleLineReply/0,protocol,1
-C:\Users\syuuj\gitProject\jedis\src\test\java\redis\clients\jedis\tests\ProtocolTest.java,redis.clients.jedis.tests.ProtocolTest,singleLineReply/0,response,1
-C:\Users\syuuj\gitProject\jedis\src\test\java\redis\clients\jedis\tests\ProtocolTest.java,redis.clients.jedis.tests.ProtocolTest,singleLineReply/0,is,1
+C:\Users\sugii syuji\jsoup\src\main\java\org\jsoup\parser\Parser.java,org.jsoup.parser.Parser,"parseInput/2[java.lang.String,java.lang.String]",baseUri,1
+C:\Users\sugii syuji\jsoup\src\main\java\org\jsoup\parser\Parser.java,org.jsoup.parser.Parser,"parseInput/2[java.lang.String,java.lang.String]",html,1
+C:\Users\sugii syuji\jsoup\src\main\java\org\jsoup\parser\Parser.java,org.jsoup.parser.Parser,"parseFragmentInput/3[java.io.Reader,org.jsoup.parser.Element,java.lang.String]",fragment,1
+C:\Users\sugii syuji\jsoup\src\main\java\org\jsoup\parser\Parser.java,org.jsoup.parser.Parser,"parseFragmentInput/3[java.io.Reader,org.jsoup.parser.Element,java.lang.String]",baseUri,1
+C:\Users\sugii syuji\jsoup\src\main\java\org\jsoup\parser\Parser.java,org.jsoup.parser.Parser,"parseFragmentInput/3[java.io.Reader,org.jsoup.parser.Element,java.lang.String]",context,1
+C:\Users\sugii syuji\jsoup\src\main\java\org\jsoup\parser\Parser.java,org.jsoup.parser.Parser,tagSet/1[org.jsoup.parser.TagSet],tagSet,3
+C:\Users\sugii syuji\jsoup\src\main\java\org\jsoup\parser\Parser.java,org.jsoup.parser.Parser,"parseBodyFragment/2[java.lang.String,java.lang.String]",baseUri,2
+C:\Users\sugii syuji\jsoup\src\main\java\org\jsoup\parser\Parser.java,org.jsoup.parser.Parser,"parseBodyFragment/2[java.lang.String,java.lang.String]",doc,2
+C:\Users\sugii syuji\jsoup\src\main\java\org\jsoup\parser\Parser.java,org.jsoup.parser.Parser,"parseBodyFragment/2[java.lang.String,java.lang.String]",bodyHtml,1
+C:\Users\sugii syuji\jsoup\src\main\java\org\jsoup\parser\Parser.java,org.jsoup.parser.Parser,"parseBodyFragment/2[java.lang.String,java.lang.String]",body,3
+C:\Users\sugii syuji\jsoup\src\main\java\org\jsoup\parser\Parser.java,org.jsoup.parser.Parser,"parseBodyFragment/2[java.lang.String,java.lang.String]",nodeList,1
+C:\Users\sugii syuji\jsoup\src\main\java\org\jsoup\parser\Parser.java,org.jsoup.parser.Parser,"parseFragment/3[java.lang.String,org.jsoup.parser.Element,java.lang.String]",fragmentHtml,1
+C:\Users\sugii syuji\jsoup\src\main\java\org\jsoup\parser\Parser.java,org.jsoup.parser.Parser,"parseFragment/3[java.lang.String,org.jsoup.parser.Element,java.lang.String]",treeBuilder,2
+C:\Users\sugii syuji\jsoup\src\main\java\org\jsoup\parser\Parser.java,org.jsoup.parser.Parser,"parseFragment/3[java.lang.String,org.jsoup.parser.Element,java.lang.String]",baseUri,1
+C:\Users\sugii syuji\jsoup\src\main\java\org\jsoup\parser\Parser.java,org.jsoup.parser.Parser,"parseFragment/3[java.lang.String,org.jsoup.parser.Element,java.lang.String]",context,1
+C:\Users\sugii syuji\jsoup\src\main\java\org\jsoup\parser\Parser.java,org.jsoup.parser.Parser,Parser/1[org.jsoup.parser.TreeBuilder],treeBuilder,3
+C:\Users\sugii syuji\jsoup\src\main\java\org\jsoup\parser\Parser.java,org.jsoup.parser.Parser,"unescape/2[java.lang.String,boolean]",inAttribute,1
+C:\Users\sugii syuji\jsoup\src\main\java\org\jsoup\parser\Parser.java,org.jsoup.parser.Parser,"unescape/2[java.lang.String,boolean]",string,4
+C:\Users\sugii syuji\jsoup\src\main\java\org\jsoup\parser\Parser.java,org.jsoup.parser.Parser,"unescape/2[java.lang.String,boolean]",tokeniser,1
+C:\Users\sugii syuji\jsoup\src\main\java\org\jsoup\parser\Parser.java,org.jsoup.parser.Parser,"parseFragmentInput/3[java.lang.String,org.jsoup.parser.Element,java.lang.String]",fragment,1
+C:\Users\sugii syuji\jsoup\src\main\java\org\jsoup\parser\Parser.java,org.jsoup.parser.Parser,"parseFragmentInput/3[java.lang.String,org.jsoup.parser.Element,java.lang.String]",baseUri,1
+C:\Users\sugii syuji\jsoup\src\main\java\org\jsoup\parser\Parser.java,org.jsoup.parser.Parser,"parseFragmentInput/3[java.lang.String,org.jsoup.parser.Element,java.lang.String]",context,1
+C:\Users\sugii syuji\jsoup\src\main\java\org\jsoup\parser\Parser.java,org.jsoup.parser.Parser,settings/1[org.jsoup.parser.ParseSettings],settings,2
+C:\Users\sugii syuji\jsoup\src\main\java\org\jsoup\parser\Parser.java,org.jsoup.parser.Parser,"unescapeEntities/2[java.lang.String,boolean]",inAttribute,1
+C:\Users\sugii syuji\jsoup\src\main\java\org\jsoup\parser\Parser.java,org.jsoup.parser.Parser,"unescapeEntities/2[java.lang.String,boolean]",string,4
+C:\Users\sugii syuji\jsoup\src\main\java\org\jsoup\parser\Parser.java,org.jsoup.parser.Parser,setTrackErrors/1[int],maxErrors,2
+C:\Users\sugii syuji\jsoup\src\main\java\org\jsoup\parser\Parser.java,org.jsoup.parser.Parser,"parseInput/2[java.io.Reader,java.lang.String]",baseUri,1
+C:\Users\sugii syuji\jsoup\src\main\java\org\jsoup\parser\Parser.java,org.jsoup.parser.Parser,"parseInput/2[java.io.Reader,java.lang.String]",inputHtml,1
+C:\Users\sugii syuji\jsoup\src\main\java\org\jsoup\parser\Parser.java,org.jsoup.parser.Parser,"parse/2[java.lang.String,java.lang.String]",treeBuilder,2
+C:\Users\sugii syuji\jsoup\src\main\java\org\jsoup\parser\Parser.java,org.jsoup.parser.Parser,"parse/2[java.lang.String,java.lang.String]",baseUri,1
+C:\Users\sugii syuji\jsoup\src\main\java\org\jsoup\parser\Parser.java,org.jsoup.parser.Parser,"parse/2[java.lang.String,java.lang.String]",html,1
+C:\Users\sugii syuji\jsoup\src\main\java\org\jsoup\parser\Parser.java,org.jsoup.parser.Parser,Parser/1[org.jsoup.parser.Parser],copy,4
+C:\Users\sugii syuji\jsoup\src\main\java\org\jsoup\parser\Parser.java,org.jsoup.parser.Parser,"parseFragment/4[java.lang.String,org.jsoup.parser.Element,java.lang.String,org.jsoup.parser.ParseErrorList]",fragmentHtml,1
+C:\Users\sugii syuji\jsoup\src\main\java\org\jsoup\parser\Parser.java,org.jsoup.parser.Parser,"parseFragment/4[java.lang.String,org.jsoup.parser.Element,java.lang.String,org.jsoup.parser.ParseErrorList]",parser,2
+C:\Users\sugii syuji\jsoup\src\main\java\org\jsoup\parser\Parser.java,org.jsoup.parser.Parser,"parseFragment/4[java.lang.String,org.jsoup.parser.Element,java.lang.String,org.jsoup.parser.ParseErrorList]",treeBuilder,2
+C:\Users\sugii syuji\jsoup\src\main\java\org\jsoup\parser\Parser.java,org.jsoup.parser.Parser,"parseFragment/4[java.lang.String,org.jsoup.parser.Element,java.lang.String,org.jsoup.parser.ParseErrorList]",errorList,1
+C:\Users\sugii syuji\jsoup\src\main\java\org\jsoup\parser\Parser.java,org.jsoup.parser.Parser,"parseFragment/4[java.lang.String,org.jsoup.parser.Element,java.lang.String,org.jsoup.parser.ParseErrorList]",baseUri,1
+C:\Users\sugii syuji\jsoup\src\main\java\org\jsoup\parser\Parser.java,org.jsoup.parser.Parser,"parseFragment/4[java.lang.String,org.jsoup.parser.Element,java.lang.String,org.jsoup.parser.ParseErrorList]",context,1
+C:\Users\sugii syuji\jsoup\src\main\java\org\jsoup\parser\Parser.java,org.jsoup.parser.Parser,setTrackPosition/1[boolean],trackPosition,2
+C:\Users\sugii syuji\jsoup\src\main\java\org\jsoup\parser\Parser.java,org.jsoup.parser.Parser,"parseXmlFragment/2[java.lang.String,java.lang.String]",treeBuilder,2
+C:\Users\sugii syuji\jsoup\src\main\java\org\jsoup\parser\Parser.java,org.jsoup.parser.Parser,"parseXmlFragment/2[java.lang.String,java.lang.String]",baseUri,1
+C:\Users\sugii syuji\jsoup\src\main\java\org\jsoup\parser\Parser.java,org.jsoup.parser.Parser,"parseXmlFragment/2[java.lang.String,java.lang.String]",fragmentXml,1

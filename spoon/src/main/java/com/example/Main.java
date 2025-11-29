@@ -18,9 +18,9 @@ public class Main {
 
     public static void main(String[] args) throws IOException {
         Launcher launcher = new Launcher();
-        String projectFilesText=args[0];
-        String diffFilesText=args[1];
-
+        String projectFilesText = args[0];
+        String diffFilesText = args[1];
+        String outPutFolder=args[2];
         getFiles(projectFilesText).forEach(a -> launcher.addInputResource(a));
         List<Path> diffFiles = getFiles(diffFilesText).stream()
                 .map(a -> Paths.get(a))
@@ -33,12 +33,13 @@ public class Main {
         Visitor visitor = new Visitor();
 
         for (CtType<?> clazz : model.getAllTypes()) {
-            if (diffFiles.contains(Paths.get(clazz.getPosition().getFile().getAbsolutePath()))) {
+
+            if (clazz.getPosition().getFile() != null && diffFiles.contains(Paths.get(clazz.getPosition().getFile().getAbsolutePath()))) {
                 clazz.accept(visitor);
             }
         }
 
-        visitor.printCSV(args[2]);
+        visitor.printCSV(outPutFolder);
     }
 
     public static List<String> getFiles(String path) {
