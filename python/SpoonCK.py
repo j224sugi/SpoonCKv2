@@ -61,24 +61,10 @@ def makeNewDir(file):
 #projectFolder=sys.argv[1]
 #outPutFolder=sys.argv[2]
 outPutFolders=[
-    "C:\\Users\\syuuj\\gitProjectResult\\jitwatch",
-    "C:\\Users\\syuuj\\gitProjectResult\\jsoup",
-    "C:\\Users\\syuuj\\gitProjectResult\\mockserver",
-    "C:\\Users\\syuuj\\gitProjectResult\\mybatis-3",
-    "C:\\Users\\syuuj\\gitProjectResult\\nanohttpd",
-    "C:\\Users\\syuuj\\gitProjectResult\\vert.x",
-    "C:\\Users\\syuuj\\gitProjectResult\\ysoserial",
-    "C:\\Users\\syuuj\\gitProjectResult\\zookeeper"
+    "C:\\Users\\syuuj\\gitProjectResult\\redisson"
     ]
 gitProjects=[
-    "C:\\Users\\syuuj\\gitProject\\jitwatch",
-    "C:\\Users\\syuuj\\gitProject\\jsoup",
-    "C:\\Users\\syuuj\\gitProject\\mockserver",
-    "C:\\Users\\syuuj\\gitProject\\mybatis-3",
-    "C:\\Users\\syuuj\\gitProject\\nanohttpd",
-    "C:\\Users\\syuuj\\gitProject\\vert.x",
-    "C:\\Users\\syuuj\\gitProject\\ysoserial",
-    "C:\\Users\\syuuj\\gitProject\\zookeeper"
+    "C:\\Users\\syuuj\\gitProject\\redisson",
 ]
 
 k=0
