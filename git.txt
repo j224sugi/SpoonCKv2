@@ -8,7 +8,11 @@ git rev-list --count HEAD ⇒　現在ブランチのコミット数を得る
 git diff --name-status [hash値] -- "*.java"　⇒　変更のあったjavaファイルを得る
 git show [hash値]:ファイル　> ファイル名　⇒　ファイルをファイル名として保存する
 grep [String]　*.txt　⇒　Stringを含む.txtを抽出する
+git log --grep="1" --grep="2"　⇒　1もしくは2を含むものを出力する
+git log --grep="1" --grep="2" --all-match　⇒　1と2を含むものを出力する
+
 gh issue list -l bug -s closed ⇒　gitプロジェクトに含まれるissueの内closeされており、かつ、labelがbugの物を出力する
+gh issue list -l "bug" --state closed --json number --jq ".[].number" ⇒　issueに含まれるラベルがbugの番号を30個出力する
 
 プルリクエストのbugラベルから抽出する？？
 issueのバグを取得して、それを元に抽出する？？
